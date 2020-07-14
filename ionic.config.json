@@ -1,0 +1,7 @@
+{
+  "name": "NecropsyApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
