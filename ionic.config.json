@@ -1,7 +1,9 @@
 {
   "name": "NecropsyApp",
   "integrations": {
-    "cordova": {}
+    "cordova": {},
+    "capacitor": {}
   },
-  "type": "angular"
+  "type": "angular",
+  "id": "4934abc2"
 }

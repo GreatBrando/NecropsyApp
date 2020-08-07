@@ -1,0 +1,58 @@
+<ion-header>
+  <ion-toolbar color="primary">
+
+    <ion-buttons slot="start">
+      <ion-menu-button menu ="main-menu"></ion-menu-button>
+    </ion-buttons>
+
+    <ion-buttons>
+      <ion-back-button (click)="goToProcedure()"></ion-back-button>
+    </ion-buttons>
+
+     <ion-buttons class="button_style"  slot="end">
+      <ion-button (click)="switchStyle()">
+        {{ tablestyle }}
+      </ion-button>
+    </ion-buttons>
+
+    <ion-title>
+      View Necropsy Details
+    </ion-title>
+
+  </ion-toolbar>
+</ion-header>
+
+
+<ion-content>
+  <div class="Necropsy-Header">
+      <h1> <b>Path Request #:</b> {{pathrequestid}} <b>&nbsp;&nbsp;Animals:</b> {{animalqty}} <b>&nbsp;&nbsp;Marker:</b> {{marker}} </h1>
+      <h1> <b>Method:</b> {{method}} <b>&nbsp;&nbsp;Handling:</b> {{handling}} <b>&nbsp;&nbsp;Fixative:</b> {{fixative}} <b>&nbsp;&nbsp;Processing:</b> {{processing}} </h1>
+      <h1><b>Tissues for Necropsy List</b></h1>
+  </div>
+
+  <ion-refresher slot="fixed" (ionRefresh)="doRefresh($event)">
+    <ion-refresher-content
+      pullingIcon="arrow-dropdown"
+      pullingText="Pull to refresh"
+      refreshingSpinner="circles"
+      refreshingText="Refreshing...">
+    </ion-refresher-content>
+  </ion-refresher>
+
+  <ngx-datatable  class="necropsydetails_table"
+    [ngClass]="tablestyle" 
+    [rows]="items"
+    [columnMode]="'force'" 
+    [headerHeight]="60" 
+    [rowHeight]="'auto'">
+ 
+    <ngx-datatable-column name="tissue"></ngx-datatable-column>
+    <ngx-datatable-column name="weighflg"></ngx-datatable-column>
+    <ngx-datatable-column name="photoflg"></ngx-datatable-column>
+    <ngx-datatable-column name="tissuecomment"></ngx-datatable-column>
+
+  </ngx-datatable>
+
+    <ion-button class="worklist_button" size="small" (click)="goToAnimalWorklist()">View Animal Worklist</ion-button>
+
+</ion-content>

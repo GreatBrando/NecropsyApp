@@ -1,0 +1,63 @@
+<ion-header>
+  <ion-toolbar color="primary">
+
+    <ion-buttons slot="start">
+      <ion-menu-button menu ="main-menu"></ion-menu-button>
+    </ion-buttons>
+    
+    <ion-buttons>
+      <ion-back-button defaultHref="/path-request"></ion-back-button>
+    </ion-buttons>
+
+    <ion-buttons class="button_style" slot="end">
+      <ion-button (click)="switchStyle()">
+        {{ tablestyle }}
+      </ion-button>
+    </ion-buttons>
+
+    <ion-title>
+      View Procedure
+    </ion-title>
+
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+   <div class="Procedure-Header">
+      <h1> <b>Path Request #:</b> {{pathrequestid}} <b>&nbsp;&nbsp;H#:</b> {{hnumber}} <b>&nbsp;&nbsp;Status:</b> {{requeststatus}} </h1>
+      <h1> <b>Title:</b> {{pathtitle}} </h1>
+      <h1> <b>Necropsy Procedure List</b> </h1>
+   </div>
+
+   <ion-refresher slot="fixed" (ionRefresh)="doRefresh($event)">
+    <ion-refresher-content
+      pullingIcon="arrow-dropdown"
+      pullingText="Pull to refresh"
+      refreshingSpinner="circles"
+      refreshingText="Refreshing...">
+    </ion-refresher-content>
+   </ion-refresher>
+
+   <ngx-datatable  class="pathrequest_table"
+    [ngClass]="tablestyle" 
+    [rows]="items"
+    [columnMode]="'force'" 
+    [headerHeight]="60" 
+    [rowHeight]="'auto'">
+
+     <ngx-datatable-column name="procedureid"></ngx-datatable-column>
+    <ngx-datatable-column name="requestdate"></ngx-datatable-column>
+    <ngx-datatable-column name="animalqty"></ngx-datatable-column>
+    <ngx-datatable-column name="location"></ngx-datatable-column>
+    <ngx-datatable-column name="procedurecomment"></ngx-datatable-column>
+    <ngx-datatable-column name="studymonitor"></ngx-datatable-column>
+
+    <ngx-datatable-column name="Actions" sortable="false" prop="name">
+      <ng-template let-row="row" let-value="value" ngx-datatable-cell-template>
+        <ion-button size="small" fill="outline" (click)="goToNecropsyDetails(row)">View Necropsy</ion-button>
+      </ng-template>
+    </ngx-datatable-column>
+ 
+  </ngx-datatable>
+  
+</ion-content>

@@ -24,3 +24,22 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+/* CSS for datatable  */
+@import '~@swimlane/ngx-datatable/index.css';
+@import '~@swimlane/ngx-datatable/themes/dark.css';
+@import '~@swimlane/ngx-datatable/themes/bootstrap.css';
+@import '~@swimlane/ngx-datatable/assets/icons.css';
+
+.true-row {
+    background-color: lightgreen !important;
+  }
+   
+.false-row {
+    background-color: lightpink !important;
+}
+
+.my-custom-modal-css .modal-wrapper {
+    width: 100%;
+    height: 95%;
+}

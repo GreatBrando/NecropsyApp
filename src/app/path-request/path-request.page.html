@@ -1,0 +1,51 @@
+<ion-header>
+  <ion-toolbar color="primary">
+    <ion-title>
+      Path Request Selection
+    </ion-title>
+ 
+    <ion-buttons slot="start" class="button_style">
+      <ion-button (click)="switchStyle()">
+        {{ tablestyle }}
+      </ion-button>
+    </ion-buttons>
+ 
+    <ion-searchbar animated  slot="end"  (ionInput)="filterItems($event)" placeholder="Search by Path Request"></ion-searchbar>
+
+  </ion-toolbar>
+</ion-header>
+ 
+<ion-content>
+
+    <ion-refresher slot="fixed" (ionRefresh)="doRefresh($event)">
+      <ion-refresher-content
+        pullingIcon="arrow-dropdown"
+        pullingText="Pull to refresh"
+        refreshingSpinner="circles"
+        refreshingText="Refreshing...">
+      </ion-refresher-content>
+    </ion-refresher>
+ 
+    <ngx-datatable  class="pathrequest_table"
+    [ngClass]="tablestyle" 
+    [rows]="pathRequestFilter"
+    [columnMode]="'force'" 
+    [headerHeight]="50" 
+    [rowHeight]="'auto'">
+ 
+    <ngx-datatable-column name="pathrequestid"></ngx-datatable-column>
+    <ngx-datatable-column name="hnumber"></ngx-datatable-column>
+    <ngx-datatable-column name="requeststatus"></ngx-datatable-column>
+    <ngx-datatable-column name="animalcount"></ngx-datatable-column>
+    <ngx-datatable-column name="primaryinvestigator"></ngx-datatable-column>
+    <ngx-datatable-column name="studypathologist"></ngx-datatable-column>
+
+    <ngx-datatable-column name="Actions" sortable="false" prop="name">
+      <ng-template let-row="row" let-value="value" ngx-datatable-cell-template>
+        <ion-button size="small" fill="outline" (click)="goToProcedureDetails(row)">View</ion-button>
+      </ng-template>
+    </ngx-datatable-column>
+ 
+  </ngx-datatable>
+ 
+</ion-content>

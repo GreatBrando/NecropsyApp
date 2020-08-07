@@ -1,0 +1,185 @@
+<ion-header>
+  <ion-toolbar color="primary">
+    <ion-buttons slot="start">
+      <ion-button (click)="closeModalInProgress()">
+         Close
+      </ion-button>
+    </ion-buttons>
+
+     <ion-buttons class="button_style" slot="end">
+      <ion-button (click)="switchStyle()">
+        {{ tablestyle }}
+      </ion-button>
+    </ion-buttons>
+
+    <ion-title>
+      Necropsy Task Fulfillment
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div class="NecropsyTaskFulfillment-Header">
+      <h1> <b>Path Request #:</b> {{pathrequestid}} <b>&nbsp;Group/Animal:</b> {{animalid}} <b>&nbsp;Species:</b> {{species}} </h1>
+      <h1> <b>Strain:</b> {{strain}} </h1>
+      <h1> <b>Necropsy Work Date:</b> {{date}} <b>&nbsp;Technician:</b> {{technician}} </h1>
+      <h1> <b>Enter Gross Observations</b> </h1>
+  </div>
+
+  <ngx-datatable  class="necropsytask_table"
+    [ngClass]="tablestyle" 
+    [rows]="items"
+    [columnMode]="'force'" 
+    [headerHeight]="60" 
+    [rowHeight]="'75'">
+    
+    <ngx-datatable-column name="tissue"></ngx-datatable-column>
+
+    <ngx-datatable-column name="Weight" [cellClass]="getWeighCellClass" sortable="false" prop="name">
+      <ng-template let-row="row" let-value="value" ngx-datatable-cell-template>
+        <ion-input [(ngModel)]="row.weight" placeholder="Enter Weight"></ion-input>
+      </ng-template>
+    </ngx-datatable-column>
+    
+    <ngx-datatable-column name="Photo" [cellClass]="getPhotoCellClass" sortable="false" prop="name">
+      <ng-template let-row="row" let-value="value" ngx-datatable-cell-template>
+        <ion-button size="small" fill="clear" (click)="takePicture()">{{picturetext}}</ion-button>
+      </ng-template>
+    </ngx-datatable-column>
+
+    <ngx-datatable-column name="Locations" sortable="false" prop="name">
+     <ng-template let-row="row" let-value="value" ngx-datatable-cell-template>
+      <ion-select [(ngModel)]="row.location" placeholder="Locations">
+        <ion-select-option value="abdonimal cavity">Abdonimal Cavity</ion-select-option>
+        <ion-select-option value="anterior">Anterior</ion-select-option>
+        <ion-select-option value="area">Area</ion-select-option>
+        <ion-select-option value="bilateral">Bilateral</ion-select-option>
+        <ion-select-option value="both">Both</ion-select-option>
+        <ion-select-option value="cranial">Cranial</ion-select-option>
+        <ion-select-option value="caudal">Caudal</ion-select-option>
+        <ion-select-option value="dorsal">Dorsal</ion-select-option>
+        <ion-select-option value="exterior">Exterior</ion-select-option>
+        <ion-select-option value="glandular">Glandular</ion-select-option>
+        <ion-select-option value="interior">Interior</ion-select-option>
+        <ion-select-option value="l">L</ion-select-option>
+        <ion-select-option value="margins">Margins</ion-select-option>
+        <ion-select-option value="non glandular">Non-glandular</ion-select-option>
+        <ion-select-option value="not present">Not Present</ion-select-option>
+        <ion-select-option value="palmar">Palmar</ion-select-option>
+        <ion-select-option value="plantar">Plantar</ion-select-option>
+        <ion-select-option value="posterior">Posterior</ion-select-option>
+        <ion-select-option value="r">R</ion-select-option>
+        <ion-select-option value="thoracic cavity">Thoracic Cavity</ion-select-option>
+        <ion-select-option value="unilateral">Unilateral</ion-select-option>
+        <ion-select-option value="ventral">Ventral</ion-select-option>
+        <ion-select-option value="apical lobe">Apical Lobe</ion-select-option>
+        <ion-select-option value="azygous lobe">Azygous Lobe</ion-select-option>
+        <ion-select-option value="cardiac lobe">Cardiac Lobe</ion-select-option>
+        <ion-select-option value="diaphramatic lobe">Diaphramatic Lobe</ion-select-option>
+        <ion-select-option value="left lobe">Left Lobe</ion-select-option>
+        <ion-select-option value="median lobe">Median Lobe</ion-select-option>
+        <ion-select-option value="right lobe">Right Lobe</ion-select-option>
+        <ion-select-option value="caudate lobe">Caudate Lobe</ion-select-option>
+      </ion-select>
+     </ng-template>
+    </ngx-datatable-column>
+
+    <ngx-datatable-column name="Color" sortable="false" prop="name">
+      <ng-template let-row="row" let-value="value" ngx-datatable-cell-template>
+        <ion-select [(ngModel)]="row.color" placeholder="Color">
+          <ion-select-option value="black">Black</ion-select-option>
+          <ion-select-option value="brown">Brown</ion-select-option>
+          <ion-select-option value="clear">Clear</ion-select-option>
+          <ion-select-option value="dark red">Dark Red</ion-select-option>
+          <ion-select-option value="green">Green</ion-select-option>
+          <ion-select-option value="mottled">Mottled</ion-select-option>
+          <ion-select-option value="pale">Pale</ion-select-option>
+          <ion-select-option value="pink">Pink</ion-select-option>
+          <ion-select-option value="red">Red</ion-select-option>
+          <ion-select-option value="tan">Tan</ion-select-option>
+          <ion-select-option value="yellow">Yellow</ion-select-option>
+          <ion-select-option value="white">White</ion-select-option>
+        </ion-select>
+       </ng-template>
+    </ngx-datatable-column>
+
+    <ngx-datatable-column name="Size">
+      <ng-template let-row="row" let-value="value" ngx-datatable-cell-template>
+        <ion-select [(ngModel)]="row.size" placeholder="Size">
+          <ion-select-option value="enlarged">Enlarged</ion-select-option>
+          <ion-select-option value="slightly enlarged">Slightly Enlarged</ion-select-option>
+          <ion-select-option value="extremely enlarged">Extremely Enlarged</ion-select-option>
+          <ion-select-option value="extremely small">Extremely Small</ion-select-option>
+          <ion-select-option value="multifocal">Multifocal</ion-select-option>
+          <ion-select-option value="pinpoint">Pinpoint</ion-select-option>
+          <ion-select-option value="small">Small</ion-select-option>
+          <ion-select-option value="undistinguishable">Undistinguishable</ion-select-option>
+          <ion-select-option value="various">Various</ion-select-option>
+        </ion-select>
+       </ng-template>
+    </ngx-datatable-column>
+   
+    <ngx-datatable-column name="Gross Observations" sortable="false" prop="name">
+      <ng-template let-row="row" let-value="value" ngx-datatable-cell-template>
+        <ion-select [(ngModel)]="row.observations" placeholder="Observations">
+          <ion-select-option value="adhered">Adhered</ion-select-option>
+          <ion-select-option value="air filled">Air Filled</ion-select-option>
+          <ion-select-option value="atrophied">Atrophied</ion-select-option>
+          <ion-select-option value="bedding">Bedding</ion-select-option>
+          <ion-select-option value="cut">Cut</ion-select-option>
+          <ion-select-option value="cystic">Cystic</ion-select-option>
+          <ion-select-option value="damaged">Damaged</ion-select-option>
+          <ion-select-option value="dilated pelvis">Dilated Pelvis</ion-select-option>
+          <ion-select-option value="dry">Dry</ion-select-option>
+          <ion-select-option value="edematous">Edematous</ion-select-option>
+          <ion-select-option value="empty">Empty</ion-select-option>
+          <ion-select-option value="fatty">Fatty</ion-select-option>
+          <ion-select-option value="fluid filled">Fluid Filled</ion-select-option>
+          <ion-select-option value="gelatinous">Gelatinous</ion-select-option>
+          <ion-select-option value="granular">Granular</ion-select-option>
+          <ion-select-option value="hard">Hard</ion-select-option>
+          <ion-select-option value="hard/dry">Hard/Dry</ion-select-option>
+          <ion-select-option value="hydrocephalus">Hydrocephalus</ion-select-option>
+          <ion-select-option value="inflamed">Inflamed</ion-select-option>
+          <ion-select-option value="lost">Lost</ion-select-option>
+          <ion-select-option value="malocclusion">Malocclusion</ion-select-option>
+          <ion-select-option value="mass">Mass</ion-select-option>
+          <ion-select-option value="milk">Milk</ion-select-option>
+          <ion-select-option value="missing">Missing</ion-select-option>
+          <ion-select-option value="moribund">Moribund</ion-select-option>
+          <ion-select-option value="mucosa">Mucosa</ion-select-option>
+          <ion-select-option value="not inflated">Not Inflated</ion-select-option>
+          <ion-select-option value="not present">Not Present</ion-select-option>
+          <ion-select-option value="overly distented">Overly Distented</ion-select-option>
+          <ion-select-option value="prolapsed">Prolapsed</ion-select-option>
+          <ion-select-option value="scabby">Scabby</ion-select-option>
+          <ion-select-option value="scruffy">Scruffy</ion-select-option>
+          <ion-select-option value="serosa">Serosa</ion-select-option>
+          <ion-select-option value="slightly distented">Slightly Distented</ion-select-option>
+          <ion-select-option value="slightly granular">Slightly Granular</ion-select-option>
+          <ion-select-option value="striations">Striations</ion-select-option>
+          <ion-select-option value="test material">Test Material</ion-select-option>
+          <ion-select-option value="thickened">Thickened</ion-select-option>
+          <ion-select-option value="thin">Thin</ion-select-option>
+          <ion-select-option value="ulcerated">Ulcerated</ion-select-option>
+          <ion-select-option value="undistinguishable">Undistinguishable</ion-select-option>
+          <ion-select-option value="watery">Watery</ion-select-option>
+        </ion-select>      
+      </ng-template>
+    </ngx-datatable-column>
+
+    <ngx-datatable-column name="Gross Comments" sortable="false" prop="name">
+      <ng-template let-row="row" let-value="value" ngx-datatable-cell-template>
+        <ion-input [(ngModel)]="row.grosscomments" placeholder="Enter Gross Comment"></ion-input>
+      </ng-template>
+    </ngx-datatable-column>
+
+  </ngx-datatable>
+
+  <div class="NecropsyTaskFulfillment-Footer">
+    <ion-button class="nogrosslesions_button" size="small" [disabled]="!pdfObj" (click)="downloadPdf()">Download PDF Report</ion-button>
+    <ion-button class="submit_button" size="small" (click)="closeModal()">No Gross Lesions</ion-button>
+    <ion-button class="submit_button" size="small" (click)="createPdf()">Submit Observations</ion-button>
+  </div>
+
+</ion-content>

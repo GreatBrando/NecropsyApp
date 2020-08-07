@@ -1,0 +1,78 @@
+<ion-header>
+  <ion-toolbar color="primary">
+    
+    <ion-buttons slot="start">
+      <ion-menu-button menu ="main-menu"></ion-menu-button>
+    </ion-buttons>
+    
+    <ion-buttons>
+      <ion-back-button (click)="goToNecropsyDetails()"></ion-back-button>
+    </ion-buttons>
+
+     <ion-buttons class="button_style" slot="end">
+      <ion-button (click)="switchStyle()">
+        {{ tablestyle }}
+      </ion-button>
+    </ion-buttons>
+
+    <ion-title>
+      Animal Worklist
+    </ion-title>
+
+  </ion-toolbar>
+
+</ion-header>
+
+<ion-content>
+  <div class="AnimalWorklist-Header">
+        <h1> <b>Path Request #:</b> {{pathrequestid}} </h1>
+        <h1> <b>Requested On:</b> {{requestdate}} </h1>
+        <h1> <b>Available Animals List</b> </h1>
+  </div>
+
+  <ion-refresher slot="fixed" (ionRefresh)="doRefresh($event)">
+    <ion-refresher-content
+      pullingIcon="arrow-dropdown"
+      pullingText="Pull to refresh"
+      refreshingSpinner="circles"
+      refreshingText="Refreshing...">
+    </ion-refresher-content>
+   </ion-refresher>
+
+  <ngx-datatable  class="animalworklist_table"
+    [ngClass]="tablestyle" 
+    [rows]="items"
+    [columnMode]="'force'" 
+    [headerHeight]="60" 
+    [rowHeight]="'auto'">
+ 
+    <ngx-datatable-column name="animalid"></ngx-datatable-column>
+    <ngx-datatable-column name="technician">
+    <ng-template let-row="row" let-value="value" ngx-datatable-cell-template>
+      <ion-select [(ngModel)]="row.technician" placeholder="technician">
+        <ion-select-option value="Sean Flanagan">Sean Flanagan</ion-select-option>
+        <ion-select-option value="Jessica Mills">Jessica Mills</ion-select-option>
+        <ion-select-option value="Alison Huynh">Alison Huynh</ion-select-option>
+        <ion-select-option value="Shannon Hambro">Shannon Hambro</ion-select-option>
+        <ion-select-option value="Victor Nunez">Victor Nunez</ion-select-option>
+        <ion-select-option value="Athrreyaa Ram">Athrreyaa Ram</ion-select-option>
+      </ion-select>
+     </ng-template>
+    </ngx-datatable-column>
+    <ngx-datatable-column name="workliststatus"></ngx-datatable-column>
+    <ngx-datatable-column name="completion"></ngx-datatable-column>
+
+
+    <ngx-datatable-column name="Actions" sortable="false" prop="name">
+      <ng-template let-row="row" let-value="value" ngx-datatable-cell-template>
+        <ion-button size="small" fill="outline" (click)="openModalWithData(row)">Enter Gross Observations</ion-button>
+      </ng-template>
+    </ngx-datatable-column>
+
+  </ngx-datatable>
+  
+<div class="AnimalWorklist-Footer">
+  <ion-button class="complete_worklist" size="small" [routerLink]="['/path-request']">Complete Worklist</ion-button>
+</div>
+
+</ion-content>
