@@ -1,0 +1,33 @@
+[
+    {
+      "pathrequestid": "PL2013-117(1)",
+      "hnumber": "H2020-304",
+      "procedure": "Necropsy",
+      "status": "Completed",
+      "species": "Mouse",
+      "animalcount": 20,
+      "investigator": "Leong, L",
+      "pathologist": "Tarrant, J",
+      "requestdate": "05/07/20 08:21 PM",
+      "animalqty": "2",
+      "procedurecomment": "Weigh and place in PBS for FACS",
+      "studymonitor": "Martzall, Angela",
+      "tissue": "Lymph Node, Inguinal",
+      "weight": "141.5",
+      "location": "Abdonimal Cavity",
+      "color": "Dark Red",
+      "size": "Pinpoint",
+      "observations": "Air Filled",
+      "grosscomments":"collected tissues from animal",
+      "collectflg": "y",
+      "weighflg": "y",
+      "photoflg": "y",
+      "tissuecomment": "",
+      "animalid": "1-1",
+      "state": "",
+      "technician": "",
+      "completion": "",
+      "organ": "BL"
+    }
+    
+  ]

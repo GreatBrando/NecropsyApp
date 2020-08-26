@@ -33,12 +33,12 @@
     [headerHeight]="50" 
     [rowHeight]="'auto'">
  
-    <ngx-datatable-column name="pathrequestid"></ngx-datatable-column>
-    <ngx-datatable-column name="hnumber"></ngx-datatable-column>
-    <ngx-datatable-column name="requeststatus"></ngx-datatable-column>
-    <ngx-datatable-column name="animalcount"></ngx-datatable-column>
-    <ngx-datatable-column name="primaryinvestigator"></ngx-datatable-column>
-    <ngx-datatable-column name="studypathologist"></ngx-datatable-column>
+    <ngx-datatable-column prop="path_request_id" name="path_request_id"></ngx-datatable-column>
+    <ngx-datatable-column prop="h_number" name="h_number"></ngx-datatable-column>
+    <ngx-datatable-column prop="request_status" name="request_status"></ngx-datatable-column>
+    <ngx-datatable-column prop="animal_count" name="animal_count"></ngx-datatable-column>
+    <ngx-datatable-column prop="primary_investigator" name="primary_investigator"></ngx-datatable-column>
+    <ngx-datatable-column prop="study_pathologist" name="study_pathologist"></ngx-datatable-column>
 
     <ngx-datatable-column name="Actions" sortable="false" prop="name">
       <ng-template let-row="row" let-value="value" ngx-datatable-cell-template>

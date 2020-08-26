@@ -16,6 +16,7 @@ import { Observable } from 'rxjs';
 export class PathRequestPage implements OnInit {
 
   items: any[];
+  test: any[];
   searchItems: any;
   public pathRequestFilter: string[];
   tablestyle = 'bootstrap';
@@ -29,13 +30,26 @@ export class PathRequestPage implements OnInit {
   }
 
   loadData(){
+
     let data:Observable<any>;
-    data = this.http.get('assets/v_nec_int_pathrequests.json');
-    data.subscribe(data => {
-      this.items = data;
-      this.initializeItems();
-    });
+    data =this.http.get('http://10.136.137.223:18080/ords/pathlimsreports/v_nec_int_pathrequest/?limit=1000')
+    .pipe(map((response: any) => response.items )) // map to use the items key!
+    data.subscribe( data => {
+       this.items = data;
+       this.initializeItems();
+       console.log(data);
+     });
+
+      /* Old Method
+      let data:Observable<any>;
+      data = this.http.get('assets/v_nec_int_pathrequests.json');
+      data.subscribe(data => {
+       this.items = data;
+       this.initializeItems();
+      });
+      */
   }
+
 
   initializeItems(){
     this.pathRequestFilter = this.items;
@@ -44,10 +58,23 @@ export class PathRequestPage implements OnInit {
   goToProcedureDetails(row){
     let navigationExtras: NavigationExtras = {
       queryParams: {
-         pathrequestid: row.pathrequestid,
-         hnumber: row.hnumber,
-         requeststatus: row.requeststatus,
-         pathtitle: row.pathtitle
+
+      /* Old Method
+      pathrequestid: row.pathrequestid,
+      hnumber: row.hnumber,
+      requeststatus: row.requeststatus,
+      pathtitle: row.pathtitle,
+      primaryinvestigator: row.primaryinvestigator,
+      studypathologist: row.studypathologist
+      */
+
+       pathrequestid: row.path_request_id,
+       hnumber: row.h_number,
+       requeststatus: row.request_status,
+       pathtitle: row.path_title,
+       primaryinvestigator: row.primary_investigator,
+       studypathologist: row.study_pathologist
+      
       }
     };
     this.navCtrl.navigateForward(['/view-procedure'], navigationExtras);
@@ -63,7 +90,8 @@ export class PathRequestPage implements OnInit {
     // if the value is an empty string don't filter the items
     if (val && val.trim() != '') {
       this.pathRequestFilter = this.items.filter(item => {
-       return (item.pathrequestid.toString().toLowerCase().indexOf(val.toString().toLowerCase()) > -1);
+              //Original is pathrequestid
+       return (item.path_request_id.toString().toLowerCase().indexOf(val.toString().toLowerCase()) > -1);
      })
     }
   }
@@ -74,10 +102,6 @@ export class PathRequestPage implements OnInit {
     } else {
       this.tablestyle = 'dark';
     }
-  }
-
-  async open(row) {
-    
   }
 
   doRefresh(event) {

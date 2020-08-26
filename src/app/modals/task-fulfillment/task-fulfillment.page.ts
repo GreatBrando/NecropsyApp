@@ -15,6 +15,8 @@ pdfMake.vfs = pdfFonts.pdfMake.vfs;
 import { File } from '@ionic-native/file/ngx';
 import { FileOpener } from '@ionic-native/file-opener/ngx';
 
+import { map } from 'rxjs/operators';
+
 
 import {Plugins, CameraResultType, Capacitor, CameraSource, CameraPhoto, FilesystemDirectory, FilesystemEncoding} from '@capacitor/core';
 import {DomSanitizer, SafeResourceUrl} from '@angular/platform-browser';
@@ -91,9 +93,10 @@ export class TaskFulfillmentPage implements OnInit {
   
   loadData(){
     let data:Observable<any>;
-    data = this.http.get('assets/v_nec_int_tissue.json');
+    data =this.http.get('http://10.136.137.223:18080/ords/pathlimsreports/v_nec_int_tissue/?q=%7B%22path_request_id%22:%22'+this.pathrequestid+'%22,%22procedure_id%22:'+this.procedureid+'%7D')
+    .pipe(map((response: any) => response.items )) // map to use the items key!
     data.subscribe(data => {
-      this.items = data.filter(item => item.pathrequestid === this.pathrequestid && item.procedureid === this.procedureid)
+      this.items = data;
       this.items = this.items.map(item => {
         if (!item.weight || item.weight == undefined) {
             item.weight = '';
@@ -130,7 +133,7 @@ export class TaskFulfillmentPage implements OnInit {
   }
 
   getWeighCellClass({row}) {
-    const isTrue = row.weighflg == 'Y';
+    const isTrue = row.weigh_flg == 'Y';
     return {
       'true-row': isTrue,
       'false-row': !isTrue
@@ -138,7 +141,7 @@ export class TaskFulfillmentPage implements OnInit {
   }
 
   getPhotoCellClass({row}) {
-    const isTrue = row.photoflg == 'Y';
+    const isTrue = row.photo_flg == 'Y';
     return {
       'true-row': isTrue,
       'false-row': !isTrue

@@ -1,0 +1,1658 @@
+[
+    {
+        "pathrequestid": "PL2019-26(40)",
+        "hnumber": "H2019-1119",
+        "requeststatus": "Approved",
+        "animalcount": 15,
+        "pathtitle": "Necropsy Training of gRED SR's in Mouse Necropsy Techniques - In Vivo Pharmacology Staff",
+        "primaryinvestigator": "Crocker, Lisa",
+        "studypathologist": "Flanagan, Sean"
+    },
+    {
+        "pathrequestid": "PL2019-26(41)",
+        "hnumber": "H2019-1120",
+        "requeststatus": "Approved",
+        "animalcount": 15,
+        "pathtitle": "Necropsy Training of gRED SR's in Mouse Necropsy Techniques - In Vivo Pharmacology Staff",
+        "primaryinvestigator": "Yee, Sharon",
+        "studypathologist": "Flanagan, Sean"
+    },
+    {
+        "pathrequestid": "19-0839(2)",
+        "hnumber": "H2019-1127",
+        "requeststatus": "Under Review",
+        "animalcount": 3,
+        "pathtitle": "Transplantation of wild-type and gene-edited microglia into Glucocerebrosidase (GBA) mutant mice",
+        "primaryinvestigator": "Yartseva, Valeria",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "17-2364(3)",
+        "hnumber": "H2019-1146",
+        "requeststatus": "Under Review",
+        "animalcount": 36,
+        "pathtitle": "The effect of Dendritic cell NIK deficiency in the DSS colitis mouse model.",
+        "primaryinvestigator": "Liang, Jie",
+        "studypathologist": "Scherl, Alexis"
+    },
+    {
+        "pathrequestid": "19-1233 A(1)",
+        "hnumber": "H2019-1161",
+        "requeststatus": "Under Review",
+        "animalcount": 12,
+        "pathtitle": "Effect of NOTCH2 or NOTCH3 on microglia repopulation in mice",
+        "primaryinvestigator": "Yartseva, Valeria",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "PL2019-26(44)",
+        "hnumber": "H2019-1216",
+        "requeststatus": "Approved",
+        "animalcount": 15,
+        "pathtitle": "Necropsy Training of gRED SR's in Mouse Necropsy Techniques - In Vivo Pharmacology Staff",
+        "primaryinvestigator": "Yee, Sharon",
+        "studypathologist": "Flanagan, Sean"
+    },
+    {
+        "pathrequestid": "TH19-1024(4)",
+        "hnumber": "H2019-1060",
+        "requeststatus": "Under Review",
+        "animalcount": 10,
+        "pathtitle": "Whole blood collection from rats",
+        "primaryinvestigator": "Sujatha-Bhaskar, Swathi",
+        "studypathologist": "Scherl, Alexis"
+    },
+    {
+        "pathrequestid": "20-0033(1)",
+        "hnumber": "H2020-182",
+        "requeststatus": "Under Review",
+        "animalcount": 4,
+        "pathtitle": "Examine mast cell engraftment of ex-vivo differentiated mast cells from PRSS57-/- PRSS57.ko.B6N.A3-1-A2-1 (7218) in B6.SJL-Ptprca Pepcb/BoyJ (JAX: 002014) host mice -- Restart of previous protocol 18-0745 C",
+        "primaryinvestigator": "Gerhardy, Stefan",
+        "studypathologist": "Caplazi, Patrick"
+    },
+    {
+        "pathrequestid": "18-1255(1)",
+        "hnumber": "H2020-222",
+        "requeststatus": "Under Review",
+        "animalcount": 37,
+        "pathtitle": "Assessing the effects of Complement deficiency on Tau-related pathology and dysfunction in the TauP301S x C1q KO mice",
+        "primaryinvestigator": "Hanson, Jesse",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "19-1288(2)",
+        "hnumber": "H2020-251",
+        "requeststatus": "Approved",
+        "animalcount": 13,
+        "pathtitle": "Study the role of Ptk7 in the mouse intestine",
+        "primaryinvestigator": "Yun, Jina",
+        "studypathologist": "Scherl, Alexis"
+    },
+    {
+        "pathrequestid": "PL2013-117(11)",
+        "hnumber": "H2020-304",
+        "requeststatus": "Under Review",
+        "animalcount": 10,
+        "pathtitle": "Dummy Study to test Middleware-Pathlims functionality",
+        "primaryinvestigator": "Leong, Laurie",
+        "studypathologist": "Tarrant, Jacqueline"
+    },
+    {
+        "pathrequestid": "18-0723(23)",
+        "hnumber": "H2020-324",
+        "requeststatus": "Approved",
+        "animalcount": 29,
+        "pathtitle": "Liver and pancreas regeneration and Organoids isolation from Wild-Type Mice with and without Acute CCl4 injury, STZ injury and Notch Blockade",
+        "primaryinvestigator": "Mosteiro Carretero, Lluc",
+        "studypathologist": "Scherl, Alexis"
+    },
+    {
+        "pathrequestid": "18-0197 F(1)",
+        "hnumber": "H2020-334",
+        "requeststatus": "Approved",
+        "animalcount": 22,
+        "pathtitle": "ICV injections of Antisense Oligonucleotides targeting TMEM106b in the PRGN.ko mouse model of of Frontotemporal Dementia (FTD)",
+        "primaryinvestigator": "Dominguez, Sara",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "18-1429 AC(1)",
+        "hnumber": "H2020-48",
+        "requeststatus": "Approved",
+        "animalcount": 20,
+        "pathtitle": "Comparing the gut mucus layer damage difference of 1.5% Dextran Sodium Sulfate (DSS) drinking water induced colitis in different vendors of C57BL6/N mice",
+        "primaryinvestigator": "Xu, Min",
+        "studypathologist": "Scherl, Alexis"
+    },
+    {
+        "pathrequestid": "19-1279(10)",
+        "hnumber": "H2020-57",
+        "requeststatus": "Approved",
+        "animalcount": 8,
+        "pathtitle": "Evaluation of Nras G12D and Nras Q61R conditional knock-in mice at 1-month post-tamoxifen",
+        "primaryinvestigator": "Moore, Mandy",
+        "studypathologist": "McGinnis, Lisa"
+    },
+    {
+        "pathrequestid": "PL2020-11(4)",
+        "hnumber": "H2020-98",
+        "requeststatus": "Under Review",
+        "animalcount": 15,
+        "pathtitle": "Necropsy Training of gRED SR's in Mouse Necropsy Techniques - In-Vivo Pharmacology Lab",
+        "primaryinvestigator": "Huang, Haochu",
+        "studypathologist": "Martzall, Angela"
+    },
+    {
+        "pathrequestid": "18-0197 B(3)",
+        "hnumber": "H2019-742",
+        "requeststatus": "Under Review",
+        "animalcount": 25,
+        "pathtitle": "Phenotyping Genetic Mouse Models of Frontotemporal Dementia (FTD): phenotyping Granulin KO mice",
+        "primaryinvestigator": "Easton, Amy",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "19-1348(1)",
+        "hnumber": "H2019-793",
+        "requeststatus": "Under Review",
+        "animalcount": 20,
+        "pathtitle": "A 12 Day Single-Dose Intravenous (IV) Toxicity and Toxicokinetic Study of a DAR 2 Monoamide PBD TDC in Female Sprague-Dawley Rats",
+        "primaryinvestigator": "Stagg, Nicola",
+        "studypathologist": "Schutten, Melissa"
+    },
+    {
+        "pathrequestid": "18-2204(1)",
+        "hnumber": "H2018-1249",
+        "requeststatus": "Approved",
+        "animalcount": 15,
+        "pathtitle": "A 7-Day Repeat-Dose Oral Dose Range Finding Study of KRAS G12C G03406036.1-2 in Female CD-1 Mice",
+        "primaryinvestigator": "Schutt, Leah",
+        "studypathologist": "Santagostino, Sara"
+    },
+    {
+        "pathrequestid": "15-2737(1)",
+        "hnumber": "H2016-570",
+        "requeststatus": "Under Review",
+        "animalcount": 11,
+        "pathtitle": "Aging: Assessment of HPK1 kinase-dead mice for signs of autoimmunity to inform potential toxicities as a result of HPK1 inhibition",
+        "primaryinvestigator": "Hernandez, Sairy",
+        "studypathologist": "Palanisamy, Gopinath"
+    },
+    {
+        "pathrequestid": "18-0581 B(1)",
+        "hnumber": "H2019-904",
+        "requeststatus": "Approved",
+        "animalcount": 40,
+        "pathtitle": "Investigating intratracheal bleomycin-induced fibrosis in MERTK.ko mice.",
+        "primaryinvestigator": "Doran, Emma",
+        "studypathologist": "Caplazi, Patrick"
+    },
+    {
+        "pathrequestid": "TH17-1861(5)",
+        "hnumber": "H2019-921",
+        "requeststatus": "Approved",
+        "animalcount": 30,
+        "pathtitle": "Tissue Harvest C57BL6, OTI, and OTII mice.",
+        "primaryinvestigator": "Ghilardi, Nico",
+        "studypathologist": "Austin, Cary"
+    },
+    {
+        "pathrequestid": "PL2019-27(8)",
+        "hnumber": "H2019-963",
+        "requeststatus": "Under Review",
+        "animalcount": 11,
+        "pathtitle": "Necropsy Training of gRED SR's in Rat Necropsy Techniques - Necropsy Lab Staff",
+        "primaryinvestigator": "Flanagan, Sean",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "PL2019-26(32)",
+        "hnumber": "H2019-965",
+        "requeststatus": "Under Review",
+        "animalcount": 2,
+        "pathtitle": "Necropsy Training of gRED SR's in Mouse Necropsy Techniques - P-Core Lab Staff",
+        "primaryinvestigator": "Flanagan, Sean",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "PL2020-11(6)",
+        "hnumber": "H2020-100",
+        "requeststatus": "Under Review",
+        "animalcount": 4,
+        "pathtitle": "Necropsy Training of gRED SR's in Mouse Necropsy Techniques - Siebel Lab",
+        "primaryinvestigator": "Siebel, Chris",
+        "studypathologist": "Martzall, Angela"
+    },
+    {
+        "pathrequestid": "PL2020-18(1)",
+        "hnumber": "H2020-142",
+        "requeststatus": "Under Review",
+        "animalcount": 40,
+        "pathtitle": "2020: Tracking Lab Activities for Necropsy ONLY Tissue Harvest Requests with gRED Collaboratrs.",
+        "primaryinvestigator": "Flanagan, Sean",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "19-0958(1)",
+        "hnumber": "H2019-564",
+        "requeststatus": "Under Review",
+        "animalcount": 20,
+        "pathtitle": "Immuno-Phenotyping of GSDMD-Cleavage Dead Knock-in Mice (Strain 7923) at 12 Weeks of Age",
+        "primaryinvestigator": "Wu, Connie",
+        "studypathologist": "Santagostino, Sara"
+    },
+    {
+        "pathrequestid": "19-1156(1)",
+        "hnumber": "H2019-633",
+        "requeststatus": "Under Review",
+        "animalcount": 8,
+        "pathtitle": "A 7-Day Repeat-Dose Oral Toxicokinetic and Tolerability Study of HPK1 Inhibitor G03406893 in Female Sprague-Dawley Rats in a New Formulation.",
+        "primaryinvestigator": "Kiyota, Satoko",
+        "studypathologist": "Cain, Gary"
+    },
+    {
+        "pathrequestid": "19-0348(1)",
+        "hnumber": "H2019-681",
+        "requeststatus": "Under Review",
+        "animalcount": 44,
+        "pathtitle": "Study of the function of NOD2 WT, NOD2 R307W knockin (KI) and NOD2 knockout (KO) in the LPS-induced systemic inflammation in mice.",
+        "primaryinvestigator": "Goncharov, Tanya",
+        "studypathologist": "Webster, Joshua"
+    },
+    {
+        "pathrequestid": "PL2019-26(36)",
+        "hnumber": "H2019-1013",
+        "requeststatus": "Under Review",
+        "animalcount": 40,
+        "pathtitle": "Necropsy Training of gRED SR's in Mouse Necropsy Techniques",
+        "primaryinvestigator": "Nunez, Victor",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "19-1707(1)",
+        "hnumber": "H2019-1040",
+        "requeststatus": "Approved",
+        "animalcount": 20,
+        "pathtitle": "Aging and tissue harvest for phenotypic comparison of TRPA1 knockout mice.",
+        "primaryinvestigator": "Kiyota, Satoko",
+        "studypathologist": "Laing, Steven"
+    },
+    {
+        "pathrequestid": "20-0117(1)",
+        "hnumber": "H2020-189",
+        "requeststatus": "Under Review",
+        "animalcount": 12,
+        "pathtitle": "Role of MLKL-dependent necroptosis in adjuvant effect of CD8 T responses in mice",
+        "primaryinvestigator": "Gitlin, Alexander",
+        "studypathologist": "Webster, Joshua"
+    },
+    {
+        "pathrequestid": "17-2464(3)",
+        "hnumber": "H2020-191",
+        "requeststatus": "Approved",
+        "animalcount": 16,
+        "pathtitle": "Examine the immune regulation and colitis pathology in a Helicobacter Hepaticus infection Anti-IL10R colitic mouse model",
+        "primaryinvestigator": "Yi, Tangsheng",
+        "studypathologist": "Scherl, Alexis"
+    },
+    {
+        "pathrequestid": "19-2003(1)",
+        "hnumber": "H2020-202",
+        "requeststatus": "Approved",
+        "animalcount": 66,
+        "pathtitle": "To investigate the effect of APC restoration on growth of mouse colorectal cancer cell lines in subcutaneously inoculated mice.",
+        "primaryinvestigator": "Sergin, Ismail",
+        "studypathologist": "Scherl, Alexis"
+    },
+    {
+        "pathrequestid": "TH18-1479(2)",
+        "hnumber": "H2020-321",
+        "requeststatus": "Approved",
+        "animalcount": 22,
+        "pathtitle": "Tissue collection from TMEM106b knockout and hTMEM106b BAC Tg mice",
+        "primaryinvestigator": "Easton, Amy",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "20-1003(1)",
+        "hnumber": "H2020-339",
+        "requeststatus": "Under Review",
+        "animalcount": 18,
+        "pathtitle": "A 7-Day Repeat-Dose Oral Toxicokinetic and Toxicity Study of HPK1 Inhibitor G03279934 in Female Sprague-Dawley Rats",
+        "primaryinvestigator": "Kiyota, Satoko",
+        "studypathologist": "Lepherd, Michelle"
+    },
+    {
+        "pathrequestid": "18-0723(19)",
+        "hnumber": "H2020-39",
+        "requeststatus": "Under Review",
+        "animalcount": 30,
+        "pathtitle": "Liver and pancreas regeneration and Organoids isolation from Wild-Type Mice with and without Acute CCl4 injury, STZ injury and Notch Blockade",
+        "primaryinvestigator": "Mosteiro Carretero, Lluc",
+        "studypathologist": "Scherl, Alexis"
+    },
+    {
+        "pathrequestid": "18-0562 O(1)",
+        "hnumber": "H2020-66",
+        "requeststatus": "Under Review",
+        "animalcount": 10,
+        "pathtitle": "Toxicology study of anti-CCR8 antibody CCR8-1294 in naive female C57Bl/6 mice",
+        "primaryinvestigator": "Schartner, Jill",
+        "studypathologist": "Schutten, Melissa"
+    },
+    {
+        "pathrequestid": "18-2516(2)",
+        "hnumber": "H2020-91",
+        "requeststatus": "Under Review",
+        "animalcount": 8,
+        "pathtitle": "Role of Notch2 signaling in dendritic cell development and tissue distribution in mice.",
+        "primaryinvestigator": "Lee, Jiyeon",
+        "studypathologist": "Webster, Joshua"
+    },
+    {
+        "pathrequestid": "17-0230(2)",
+        "hnumber": "H2019-777",
+        "requeststatus": "Approved",
+        "animalcount": 9,
+        "pathtitle": "Characterization of N4BP1 knockout mice",
+        "primaryinvestigator": "Gitlin, Alexander",
+        "studypathologist": "Webster, Joshua"
+    },
+    {
+        "pathrequestid": "19-0170(2)",
+        "hnumber": "H2019-794",
+        "requeststatus": "Under Review",
+        "animalcount": 31,
+        "pathtitle": "Muramyl dipeptide (MDP) mediated interleukin-1 beta (IL-1b) pharmacokinetic/pharmacodynamic (PKPD) model: cytokine response in NOD2 R307W knock-in mice",
+        "primaryinvestigator": "Goncharov, Tanya",
+        "studypathologist": "Webster, Joshua"
+    },
+    {
+        "pathrequestid": "19-1240(1)",
+        "hnumber": "H2019-884",
+        "requeststatus": "Approved",
+        "animalcount": 60,
+        "pathtitle": "Phenotyping of Tamoxifen-Inducible TGFb3 Conditional Knockout Mice for the Target Safety Assessment of Inhibition of TGFb3",
+        "primaryinvestigator": "Mitra, Mayur",
+        "studypathologist": "Halpern, Wendy"
+    },
+    {
+        "pathrequestid": "19-1485(1)",
+        "hnumber": "H2019-898",
+        "requeststatus": "Under Review",
+        "animalcount": 18,
+        "pathtitle": "Role of LFA-1 during growth of MC38 tumor model in Map4k4 Knockout Mice",
+        "primaryinvestigator": "Esen, Emel",
+        "studypathologist": "Webster, Joshua"
+    },
+    {
+        "pathrequestid": "17-0694 W(1)",
+        "hnumber": "H2019-226",
+        "requeststatus": "Under Review",
+        "animalcount": 32,
+        "pathtitle": "Assess mechanisms of response and resistance to T-cell dependent bispecific antibodies (TDBs): Her2-TDB in combination with anti-TNFa and anti-ICAM1 in a MMTV.huHer2 transgenic mouse model. Pharmacodynamic(PD) study, 24h",
+        "primaryinvestigator": "Caunt, Maresa",
+        "studypathologist": "Lo, Amy"
+    },
+    {
+        "pathrequestid": "19-0786(1)",
+        "hnumber": "H2019-468",
+        "requeststatus": "Under Review",
+        "animalcount": 16,
+        "pathtitle": "A 7-Day Repeat-Dose Oral Pilot Toxicity Study of HPK1 Inhibitor G03406893 in Female Sprague-Dawley Rats",
+        "primaryinvestigator": "Kiyota, Satoko",
+        "studypathologist": "Cain, Gary"
+    },
+    {
+        "pathrequestid": "PL2019-27(9)",
+        "hnumber": "H2019-962",
+        "requeststatus": "Under Review",
+        "animalcount": 10,
+        "pathtitle": "Necropsy Training of gRED SR's in Rat Necropsy Techniques - Necropsy Lab Staff",
+        "primaryinvestigator": "Nunez, Victor",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "18-1347 B(1)",
+        "hnumber": "H2018-1020",
+        "requeststatus": "Approved",
+        "animalcount": 56,
+        "pathtitle": "PK/PD study of the CDK4/6 inhibitor Abemaciclib in female SCID Beige mice bearing subcutaneous human brain tumor cells U87-MG-luc.",
+        "primaryinvestigator": "Lau, Jeff",
+        "studypathologist": "Giltnane, Jennifer"
+    },
+    {
+        "pathrequestid": "18-2408 A(1)",
+        "hnumber": "H2019-562",
+        "requeststatus": "Under Review",
+        "animalcount": 9,
+        "pathtitle": "RIPK1 Inhibition by Caspase-8 Cleavage in the Adult Mouse",
+        "primaryinvestigator": "Newton, Kim",
+        "studypathologist": "Webster, Joshua"
+    },
+    {
+        "pathrequestid": "19-0574(5)",
+        "hnumber": "H2019-677",
+        "requeststatus": "Under Review",
+        "animalcount": 20,
+        "pathtitle": "Testing the role of IL-11, OSM, IL-27 and IL-6 in HDM/cdG induced airway inflammation.",
+        "primaryinvestigator": "Wilson, Mark",
+        "studypathologist": "Austin, Cary"
+    },
+    {
+        "pathrequestid": "TH17-1861(3)",
+        "hnumber": "H2019-678",
+        "requeststatus": "Approved",
+        "animalcount": 30,
+        "pathtitle": "Tissue Harvest C57BL6, OTI, and OTII mice.",
+        "primaryinvestigator": "Ghilardi, Nico",
+        "studypathologist": "Austin, Cary"
+    },
+    {
+        "pathrequestid": "PL2019-26(43)",
+        "hnumber": "H2019-1215",
+        "requeststatus": "Approved",
+        "animalcount": 2,
+        "pathtitle": "Necropsy Training of gRED SR's in Mouse Necropsy Techniques - Maek Lab Staff",
+        "primaryinvestigator": "Moore, Mandy",
+        "studypathologist": "Flanagan, Sean"
+    },
+    {
+        "pathrequestid": "PL2019-26(35)",
+        "hnumber": "H2019-1005",
+        "requeststatus": "Under Review",
+        "animalcount": 20,
+        "pathtitle": "Necropsy Training of gRED SR's in Mouse Necropsy Techniques",
+        "primaryinvestigator": "Flanagan, Sean",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "19-0176 B(1)",
+        "hnumber": "H2019-1058",
+        "requeststatus": "Under Review",
+        "animalcount": 6,
+        "pathtitle": "The effects of inhaled JAK inhibitors in OVA-induced lung inflammation in Brown Norway rats (with preliminary toxicology assessment in Wistar rats) - G03198199, repeat study",
+        "primaryinvestigator": "Ghilardi, Nico",
+        "studypathologist": "Cain, Gary"
+    },
+    {
+        "pathrequestid": "19-1645(1)",
+        "hnumber": "H2019-1075",
+        "requeststatus": "Under Review",
+        "animalcount": 12,
+        "pathtitle": "Role of STK40 in regulating T cell response to chronic LCMV infection in mice",
+        "primaryinvestigator": "Keylin, Svetlana",
+        "studypathologist": "Webster, Joshua"
+    },
+    {
+        "pathrequestid": "19-1079(2)",
+        "hnumber": "H2020-207",
+        "requeststatus": "Under Review",
+        "animalcount": 50,
+        "pathtitle": "Investigating the role of NSP4 in House Dust Mite (HDM)-induced asthma in mice - Repetition #2",
+        "primaryinvestigator": "Gerhardy, Stefan",
+        "studypathologist": "Caplazi, Patrick"
+    },
+    {
+        "pathrequestid": "PL2020-11(9)",
+        "hnumber": "H2020-214",
+        "requeststatus": "Approved",
+        "animalcount": 5,
+        "pathtitle": "Collection of Mouse Blood for Clinical Pathology Test Validation",
+        "primaryinvestigator": "Nunez, Victor",
+        "studypathologist": "Martzall, Angela"
+    },
+    {
+        "pathrequestid": "20-0844(1)",
+        "hnumber": "H2020-302",
+        "requeststatus": "Approved",
+        "animalcount": 18,
+        "pathtitle": "A Single-Dose Pharmacodynamic and Tolerability Study of FLT3L-Ig by Intravenous Administration in Male Wistar Han & Sprague-Dawley Rats with a 13-day Observation.",
+        "primaryinvestigator": "Wu, Connie",
+        "studypathologist": "Zabka, Tanja"
+    },
+    {
+        "pathrequestid": "18-2261(1)",
+        "hnumber": "H2019-795",
+        "requeststatus": "Under Review",
+        "animalcount": 60,
+        "pathtitle": "An Aging Study of Receptor-interacting serine/threonine-protein 1 (RIP1) in Male and Female Kinase-Dead and Wild-type Rats until 18 Months of Age",
+        "primaryinvestigator": "Mitra, Mayur",
+        "studypathologist": "Santagostino, Sara"
+    },
+    {
+        "pathrequestid": "19-1394(1)",
+        "hnumber": "H2019-812",
+        "requeststatus": "Approved",
+        "animalcount": 5,
+        "pathtitle": "A 24-Hour Single-Dose Pilot Pharmacokinetic Study of KRAS G12C inhibitor G03406036 in Female CD-1 Mice",
+        "primaryinvestigator": "Sharma, Amy",
+        "studypathologist": "Santagostino, Sara"
+    },
+    {
+        "pathrequestid": "17-0232 E(1)",
+        "hnumber": "H2019-877",
+        "requeststatus": "Approved",
+        "animalcount": 18,
+        "pathtitle": "Argonaute protein level in TH2 cells in a mouse model of lung inflammation and asthma",
+        "primaryinvestigator": "Guidi, Riccardo",
+        "studypathologist": "Austin, Cary"
+    },
+    {
+        "pathrequestid": "19-1520(1)",
+        "hnumber": "H2019-890",
+        "requeststatus": "Under Review",
+        "animalcount": 22,
+        "pathtitle": "A 7-Day Repeat-Dose Toxicokinetic and Tolerability Study of HPK1 Inhibitor G03407781 by Oral Gavage in the Female Sprague-Dawley Rat with No Recovery",
+        "primaryinvestigator": "Kiyota, Satoko",
+        "studypathologist": "Lepherd, Michelle"
+    },
+    {
+        "pathrequestid": "PL2019-281(1)",
+        "hnumber": "H2019-968",
+        "requeststatus": "Under Review",
+        "animalcount": 2,
+        "pathtitle": "IHC:Method Development for gp70 MULV Envelope protein in mouse tissue",
+        "primaryinvestigator": "Lehar, Sophie",
+        "studypathologist": "Ziai, James"
+    },
+    {
+        "pathrequestid": "18-2447(1)",
+        "hnumber": "H2019-985",
+        "requeststatus": "Approved",
+        "animalcount": 28,
+        "pathtitle": "Phenotyping of Aged CBLB.C373A.ki Mouse for the Target Safety Assessment of Cbl-b",
+        "primaryinvestigator": "Kiyota, Satoko",
+        "studypathologist": "Cain, Gary"
+    },
+    {
+        "pathrequestid": "18-0197 B(4)",
+        "hnumber": "H2019-987",
+        "requeststatus": "Under Review",
+        "animalcount": 53,
+        "pathtitle": "Phenotyping Genetic Mouse Models of Frontotemporal Dementia (FTD): phenotyping Granulin KO mice",
+        "primaryinvestigator": "Easton, Amy",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "PL2019-26(34)",
+        "hnumber": "H2019-991",
+        "requeststatus": "Under Review",
+        "animalcount": 40,
+        "pathtitle": "Necropsy Training of gRED SR's in Mouse Necropsy Techniques",
+        "primaryinvestigator": "Nunez, Victor",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "18-2516(4)",
+        "hnumber": "H2020-116",
+        "requeststatus": "Approved",
+        "animalcount": 9,
+        "pathtitle": "Role of Notch2 signaling in dendritic cell development and tissue distribution in mice.",
+        "primaryinvestigator": "Cruz Tleugabulova, Mayra",
+        "studypathologist": "Webster, Joshua"
+    },
+    {
+        "pathrequestid": "19-0860(2)",
+        "hnumber": "H2020-13",
+        "requeststatus": "Under Review",
+        "animalcount": 27,
+        "pathtitle": "Explore the utility of the lo copy SOD1.tg mouse model using DLKcKO as a tool to see if greater functional benefit can be achieved in a less aggressive model of ALS",
+        "primaryinvestigator": "Dominguez, Sara",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "17-2221(1)",
+        "hnumber": "H2017-994",
+        "requeststatus": "Under Review",
+        "animalcount": 9,
+        "pathtitle": "A 3-Day Repeat-Dose Pilot Oral Toxicity and Toxicokinetic Study of Nav1.7 GDC-0310 in Male Rabbits",
+        "primaryinvestigator": "Mitra, Mayur",
+        "studypathologist": "Palanisamy, Gopinath"
+    },
+    {
+        "pathrequestid": "PL2019-26(13)",
+        "hnumber": "H2019-545",
+        "requeststatus": "Approved",
+        "animalcount": 47,
+        "pathtitle": "Necropsy Training of gRED SR's in Mouse Necropsy Techniques",
+        "primaryinvestigator": "Flanagan, Sean",
+        "studypathologist": "Caplazi, Patrick"
+    },
+    {
+        "pathrequestid": "17-1571 O(1)",
+        "hnumber": "H2019-618",
+        "requeststatus": "Approved",
+        "animalcount": 14,
+        "pathtitle": "Determine how the effect of engineered murine LIGHT treatment compares to the effect of LTa1b2 treatment on anti-tumor immunity in a sygeneic tumor model in C57BL/6 mice",
+        "primaryinvestigator": "Krishnamurty, Akshay",
+        "studypathologist": "Cain, Gary"
+    },
+    {
+        "pathrequestid": "18-0197 B(5)",
+        "hnumber": "H2019-1147",
+        "requeststatus": "Under Review",
+        "animalcount": 36,
+        "pathtitle": "Phenotyping Genetic Mouse Models of Frontotemporal Dementia (FTD): phenotyping Granulin KO mice",
+        "primaryinvestigator": "Easton, Amy",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "19-1678 A(2)",
+        "hnumber": "H2019-1148",
+        "requeststatus": "Under Review",
+        "animalcount": 15,
+        "pathtitle": "Investigating edema caused by non-covalent activation of TRPA1 with G00923551 in the rat",
+        "primaryinvestigator": "Reese, Becca",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "18-2003 C(1)",
+        "hnumber": "H2019-1222",
+        "requeststatus": "Under Review",
+        "animalcount": 10,
+        "pathtitle": "Effect of microglia depletion on Alzheimer's Disease (AD) pathology in PS2APP/P301L mice",
+        "primaryinvestigator": "Priya, Rashi",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "19-1437(1)",
+        "hnumber": "H2019-1053",
+        "requeststatus": "Approved",
+        "animalcount": 20,
+        "pathtitle": "Efficacy study for long term anti-TREM2 agonistic antibody treatment in humanized TREM2 mice",
+        "primaryinvestigator": "Echeverria Larraza, Ainhoa",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "20-0117(2)",
+        "hnumber": "H2020-197",
+        "requeststatus": "Under Review",
+        "animalcount": 6,
+        "pathtitle": "Role of MLKL-dependent necroptosis in adjuvant effect of CD8 T responses in mice",
+        "primaryinvestigator": "Gitlin, Alexander",
+        "studypathologist": "Webster, Joshua"
+    },
+    {
+        "pathrequestid": "18-2516(6)",
+        "hnumber": "H2020-218",
+        "requeststatus": "Under Review",
+        "animalcount": 15,
+        "pathtitle": "Role of Notch2 signaling in dendritic cell development and tissue distribution in mice.",
+        "primaryinvestigator": "Cruz Tleugabulova, Mayra",
+        "studypathologist": "Webster, Joshua"
+    },
+    {
+        "pathrequestid": "18-2035 B(1)",
+        "hnumber": "H2020-224",
+        "requeststatus": "Under Review",
+        "animalcount": 43,
+        "pathtitle": "Cisplatin-induced side effects in DFNA5 KO mice: repeat with optimized conditions",
+        "primaryinvestigator": "Kayagaki, Nobuhiko",
+        "studypathologist": "Webster, Joshua"
+    },
+    {
+        "pathrequestid": "18-0197 G(1)",
+        "hnumber": "H2020-292",
+        "requeststatus": "Under Review",
+        "animalcount": 37,
+        "pathtitle": "ICV injections of Antisense Oligonucleotides targeting human TMEM106b in the human TMEM106b transgenic mouse model.",
+        "primaryinvestigator": "Dominguez, Sara",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "17-0073 L(1)",
+        "hnumber": "H2020-30",
+        "requeststatus": "Under Review",
+        "animalcount": 25,
+        "pathtitle": "Determining whether the effects of anti-PDL1, alone or in combination with MEK inhibitor treatment, require T cell egress from draining lymph nodes- repeat",
+        "primaryinvestigator": "Nutsch, Katie",
+        "studypathologist": "Koeppen, Hartmut"
+    },
+    {
+        "pathrequestid": "20-0260(1)",
+        "hnumber": "H2020-322",
+        "requeststatus": "Under Review",
+        "animalcount": 59,
+        "pathtitle": "Effect of inhaled (nebulized) anti-Notch2 1B02 Fab-trimer and Fab-IgG molecules on cellular transdifferentiation in the lung of naive guinea pigs (PK/PD, with preliminary safety assessment)",
+        "primaryinvestigator": "Lafkas, Daniel",
+        "studypathologist": "Cain, Gary"
+    },
+    {
+        "pathrequestid": "16-2267(9)",
+        "hnumber": "H2020-330",
+        "requeststatus": "Under Review",
+        "animalcount": 12,
+        "pathtitle": "Characterization of COP1 function in tissue resident macrophages in the adult mouse",
+        "primaryinvestigator": "Ndoja, Ada",
+        "studypathologist": "Webster, Joshua"
+    },
+    {
+        "pathrequestid": "20-0592(1)",
+        "hnumber": "H2020-337",
+        "requeststatus": "Approved",
+        "animalcount": 18,
+        "pathtitle": "28-Day IV SCID mouse study of Anti-TREM2 Agonists in Serum and Brain Tissue.",
+        "primaryinvestigator": "Sadekar, Shraddha",
+        "studypathologist": "Dybdal, Noel"
+    },
+    {
+        "pathrequestid": "18-0197 E(1)",
+        "hnumber": "H2020-51",
+        "requeststatus": "Approved",
+        "animalcount": 60,
+        "pathtitle": "2nd screen for TMEM106b ICV injected Antisense Oligonucleotides in WT mice",
+        "primaryinvestigator": "Dominguez, Sara",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "19-1279(11)",
+        "hnumber": "H2020-58",
+        "requeststatus": "Approved",
+        "animalcount": 8,
+        "pathtitle": "Evaluation of Kras Q61R mice aged to 6-months",
+        "primaryinvestigator": "Moore, Mandy",
+        "studypathologist": "McGinnis, Lisa"
+    },
+    {
+        "pathrequestid": "PL2020-11(2)",
+        "hnumber": "H2020-96",
+        "requeststatus": "Under Review",
+        "animalcount": 5,
+        "pathtitle": "Necropsy Training of gRED SR's in Mouse Necropsy Techniques - Mellman Lab",
+        "primaryinvestigator": "Strasser, Geraldine",
+        "studypathologist": "Martzall, Angela"
+    },
+    {
+        "pathrequestid": "PL2020-11(5)",
+        "hnumber": "H2020-99",
+        "requeststatus": "Under Review",
+        "animalcount": 4,
+        "pathtitle": "Necropsy Training of gRED SR's in Mouse Necropsy Techniques - McKenzie Lab",
+        "primaryinvestigator": "Brightbill, Hans",
+        "studypathologist": "Martzall, Angela"
+    },
+    {
+        "pathrequestid": "TH19-1024(2)",
+        "hnumber": "H2019-739",
+        "requeststatus": "Approved",
+        "animalcount": 3,
+        "pathtitle": "Whole blood collection from rats",
+        "primaryinvestigator": "Sujatha-Bhaskar, Swathi",
+        "studypathologist": "Scherl, Alexis"
+    },
+    {
+        "pathrequestid": "19-1233(1)",
+        "hnumber": "H2019-920",
+        "requeststatus": "Under Review",
+        "animalcount": 11,
+        "pathtitle": "Effect of NOTCH2 or NOTCH3 on microglia repopulation in mice",
+        "primaryinvestigator": "Yartseva, Valeria",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "19-1430(1)",
+        "hnumber": "H2019-925",
+        "requeststatus": "Under Review",
+        "animalcount": 36,
+        "pathtitle": "A 4-Week Repeat-Dose Intravenous Pilot Toxicity Study of TGFb1 Inhibiting mAb 21D1 in CD-1 Male and Female Mice with a 4-Week Recovery",
+        "primaryinvestigator": "Mitra, Mayur",
+        "studypathologist": "Lepherd, Michelle"
+    },
+    {
+        "pathrequestid": "18-2136(1)",
+        "hnumber": "H2019-939",
+        "requeststatus": "Under Review",
+        "animalcount": 20,
+        "pathtitle": "The effect of NIK deficiency in intestinal epithelial cells on DSS colitis in mice",
+        "primaryinvestigator": "Liang, Jie",
+        "studypathologist": "Scherl, Alexis"
+    },
+    {
+        "pathrequestid": "19-1594(1)",
+        "hnumber": "H2019-960",
+        "requeststatus": "Under Review",
+        "animalcount": 12,
+        "pathtitle": "A Single-Dose Toxicity and Toxicokinetics Study of G03407694, a BRM PROTAC inhibitor, by Intravenous Administration in the Male Sprague-Dawley Rat with a 7-day Recovery Period",
+        "primaryinvestigator": "Maher, Jonathan",
+        "studypathologist": "Cain, Gary"
+    },
+    {
+        "pathrequestid": "20-0075(2)",
+        "hnumber": "H2020-114",
+        "requeststatus": "Under Review",
+        "animalcount": 2,
+        "pathtitle": "Mouse Phenotyping Analysis",
+        "primaryinvestigator": "Rairdan, Xin",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "19-0509 G(1)",
+        "hnumber": "H2020-16",
+        "requeststatus": "Under Review",
+        "animalcount": 12,
+        "pathtitle": "Pharmacokinetics of benzodiazepines in mice after a single dose by oral gavage.",
+        "primaryinvestigator": "Breart, Beatrice",
+        "studypathologist": "Ziai, James"
+    },
+    {
+        "pathrequestid": "19-0348(2)",
+        "hnumber": "H2019-682",
+        "requeststatus": "Under Review",
+        "animalcount": 44,
+        "pathtitle": "Study of the function of NOD2 WT, NOD2 R307W knockin (KI) and NOD2 knockout (KO) in the LPS-induced systemic inflammation in mice.",
+        "primaryinvestigator": "Goncharov, Tanya",
+        "studypathologist": "Webster, Joshua"
+    },
+    {
+        "pathrequestid": "PL2019-26(42)",
+        "hnumber": "H2019-1121",
+        "requeststatus": "Approved",
+        "animalcount": 5,
+        "pathtitle": "Necropsy Training of gRED SR's in Mouse Necropsy Techniques - McKenzie Staff",
+        "primaryinvestigator": "Rinderknecht Eller, Cornelia",
+        "studypathologist": "Flanagan, Sean"
+    },
+    {
+        "pathrequestid": "19-0251 B(1)",
+        "hnumber": "H2019-1125",
+        "requeststatus": "Approved",
+        "animalcount": 58,
+        "pathtitle": "Busulfan dose optimization for bone marrow transplantation in mice: repeat",
+        "primaryinvestigator": "Jovicic, Ana",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "19-0506(1)",
+        "hnumber": "H2019-1151",
+        "requeststatus": "Under Review",
+        "animalcount": 45,
+        "pathtitle": "Investigating the effects of genetic TPL2 kinase inhibition in a TauP301S mouse model of Alzheimer's Disease (AD)",
+        "primaryinvestigator": "Hanson, Jesse",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "19-1055(4)",
+        "hnumber": "H2019-1008",
+        "requeststatus": "Under Review",
+        "animalcount": 27,
+        "pathtitle": "Understanding the role of NIK and non-canonical NF¿B signaling pathway in intestinal epithelial cells in Citrobacter infection model in mice",
+        "primaryinvestigator": "Liang, Jie",
+        "studypathologist": "Scherl, Alexis"
+    },
+    {
+        "pathrequestid": "TH20-0067(4)",
+        "hnumber": "H2020-190",
+        "requeststatus": "Under Review",
+        "animalcount": 30,
+        "pathtitle": "Tissue harvest protocol for wild type mice strains.",
+        "primaryinvestigator": "Sujatha-Bhaskar, Swathi",
+        "studypathologist": "Scherl, Alexis"
+    },
+    {
+        "pathrequestid": "TH18-2448(3)",
+        "hnumber": "H2020-200",
+        "requeststatus": "Under Review",
+        "animalcount": 12,
+        "pathtitle": "Tissue Harvest protocol for the analysis of tissues from knock-out and knock-in mutant mouse strains",
+        "primaryinvestigator": "Maltzman, Allie",
+        "studypathologist": "Webster, Joshua"
+    },
+    {
+        "pathrequestid": "19-1615 A(1)",
+        "hnumber": "H2020-225",
+        "requeststatus": "Under Review",
+        "animalcount": 20,
+        "pathtitle": "Further Characterization of the Role of Casp8 Catalytic Activity in the Adult Mouse Intestine",
+        "primaryinvestigator": "Newton, Kim",
+        "studypathologist": "Webster, Joshua"
+    },
+    {
+        "pathrequestid": "19-0006(1)",
+        "hnumber": "H2020-232",
+        "requeststatus": "Under Review",
+        "animalcount": 23,
+        "pathtitle": "Establishing an in vivo mouse model to investigate cell-cell interactions using CT-26-Her2 tumor model",
+        "primaryinvestigator": "Cruz Tleugabulova, Mayra",
+        "studypathologist": "Webster, Joshua"
+    },
+    {
+        "pathrequestid": "19-0790(1)",
+        "hnumber": "H2020-244",
+        "requeststatus": "Under Review",
+        "animalcount": 15,
+        "pathtitle": "Aging of CYLD.D215A.HTN.ki mice.",
+        "primaryinvestigator": "Newton, Kim",
+        "studypathologist": "Webster, Joshua"
+    },
+    {
+        "pathrequestid": "18-0197(2)",
+        "hnumber": "H2020-319",
+        "requeststatus": "Approved",
+        "animalcount": 29,
+        "pathtitle": "Master protocol for systemic and ICV Antisense Oligonucleotide delivery to WT and Genetic Mouse Models of Frontotemporal Dementia (FTD)",
+        "primaryinvestigator": "Easton, Amy",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "TH20-0067(1)",
+        "hnumber": "H2020-83",
+        "requeststatus": "Under Review",
+        "animalcount": 30,
+        "pathtitle": "Tissue harvest protocol for wild type mice strains.",
+        "primaryinvestigator": "Sujatha-Bhaskar, Swathi",
+        "studypathologist": "Scherl, Alexis"
+    },
+    {
+        "pathrequestid": "TH17-2295(2)",
+        "hnumber": "H2020-87",
+        "requeststatus": "Approved",
+        "animalcount": 12,
+        "pathtitle": "Mouse Tissue harvest for studying pain and/or neurodegenerative disease in vitro - non-WT",
+        "primaryinvestigator": "Deng, Lunbin",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "19-1212(1)",
+        "hnumber": "H2019-760",
+        "requeststatus": "Under Review",
+        "animalcount": 21,
+        "pathtitle": "Tissue distribution of one arm antibody formats in SCID-Beige mice",
+        "primaryinvestigator": "Rafidi, Hanine",
+        "studypathologist": "Dybdal, Noel"
+    },
+    {
+        "pathrequestid": "19-0860(1)",
+        "hnumber": "H2019-961",
+        "requeststatus": "Under Review",
+        "animalcount": 32,
+        "pathtitle": "Explore the utility of the lo copy SOD1.tg mouse model using DLKcKO as a tool to see if greater functional benefit can be achieved in a less aggressive model of ALS",
+        "primaryinvestigator": "Dominguez, Sara",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "19-1573(1)",
+        "hnumber": "H2019-977",
+        "requeststatus": "Under Review",
+        "animalcount": 60,
+        "pathtitle": "Study for aging (30 weeks max) and tissue harvest for phenotypic comparison of LOXL2/4 knockout mice.",
+        "primaryinvestigator": "Dere, Ed",
+        "studypathologist": "Sullivan, Ruth"
+    },
+    {
+        "pathrequestid": "19-1576(1)",
+        "hnumber": "H2019-998",
+        "requeststatus": "Under Review",
+        "animalcount": 2,
+        "pathtitle": "Tissue Distribution and naso and broncho-sorption in female guinea pig.",
+        "primaryinvestigator": "Rafidi, Hanine",
+        "studypathologist": "Dybdal, Noel"
+    },
+    {
+        "pathrequestid": "PL2020-12(2)",
+        "hnumber": "H2020-134",
+        "requeststatus": "Under Review",
+        "animalcount": 4,
+        "pathtitle": "Run-Through for Upcoming Safety Assessment Study",
+        "primaryinvestigator": "Flanagan, Sean",
+        "studypathologist": "Lepherd, Michelle"
+    },
+    {
+        "pathrequestid": "18-0723(20)",
+        "hnumber": "H2020-154",
+        "requeststatus": "Approved",
+        "animalcount": 30,
+        "pathtitle": "Liver and pancreas regeneration and Organoids isolation from Wild-Type Mice with and without Acute CCl4 injury, STZ injury and Notch Blockade",
+        "primaryinvestigator": "Mosteiro Carretero, Lluc",
+        "studypathologist": "Scherl, Alexis"
+    },
+    {
+        "pathrequestid": "PL2018-12(1)",
+        "hnumber": "H2018-21",
+        "requeststatus": "Under Review",
+        "animalcount": 4,
+        "pathtitle": "To be used for Bone Marrow training for Necropsy staff and stain and review by CP Lab",
+        "primaryinvestigator": "Woo, Shannon",
+        "studypathologist": "Martzall, Angela"
+    },
+    {
+        "pathrequestid": "PL2019-26(18)",
+        "hnumber": "H2019-647",
+        "requeststatus": "Under Review",
+        "animalcount": 10,
+        "pathtitle": "Necropsy Training of gRED SR's in Mouse Necropsy Techniques",
+        "primaryinvestigator": "Nunez, Victor",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "18-2102(1)",
+        "hnumber": "H2019-718",
+        "requeststatus": "Under Review",
+        "animalcount": 8,
+        "pathtitle": "Breeding of LDLR knockout (KO) mice",
+        "primaryinvestigator": "Leeman, Dena",
+        "studypathologist": "Caplazi, Patrick"
+    },
+    {
+        "pathrequestid": "19-1055(5)",
+        "hnumber": "H2019-1085",
+        "requeststatus": "Under Review",
+        "animalcount": 18,
+        "pathtitle": "Understanding the role of NIK and non-canonical NF¿B signaling pathway in intestinal epithelial cells in Citrobacter infection model in mice",
+        "primaryinvestigator": "Liang, Jie",
+        "studypathologist": "Scherl, Alexis"
+    },
+    {
+        "pathrequestid": "19-1839(1)",
+        "hnumber": "H2019-1153",
+        "requeststatus": "Under Review",
+        "animalcount": 90,
+        "pathtitle": "Phenotyping of Tamoxifen-Inducible Cbl-b Conditional Knockout (cKO) and Cbl-b/c-Cbl Dual cKO Mice for the Target Safety Assessment",
+        "primaryinvestigator": "Kiyota, Satoko",
+        "studypathologist": "Sullivan, Ruth"
+    },
+    {
+        "pathrequestid": "18-1411(1)",
+        "hnumber": "H2019-1165",
+        "requeststatus": "Under Review",
+        "animalcount": 33,
+        "pathtitle": "Involvement of CD28 signaling in PD-1 mediated CD8 T cell efficacy in mice.",
+        "primaryinvestigator": "Nitschke, Maximilian",
+        "studypathologist": "Webster, Joshua"
+    },
+    {
+        "pathrequestid": "19-1885(1)",
+        "hnumber": "H2019-1171",
+        "requeststatus": "Under Review",
+        "animalcount": 21,
+        "pathtitle": "Effect of systemically delivered anti-Jag1 and anti-Notch2 antibodies on cellular transdifferentiation in the lung of naive guinea pigs (PK/PD)",
+        "primaryinvestigator": "Lafkas, Daniel",
+        "studypathologist": "Austin, Cary"
+    },
+    {
+        "pathrequestid": "PL2019-26(45)",
+        "hnumber": "H2019-1217",
+        "requeststatus": "Approved",
+        "animalcount": 4,
+        "pathtitle": "Necropsy Training of gRED SR's in Mouse Necropsy Techniques - Jasper Lab",
+        "primaryinvestigator": "Flanagan, Sean",
+        "studypathologist": "Flanagan, Sean"
+    },
+    {
+        "pathrequestid": "TH20-0067(3)",
+        "hnumber": "H2020-180",
+        "requeststatus": "Under Review",
+        "animalcount": 40,
+        "pathtitle": "Tissue harvest protocol for wild type mice strains.",
+        "primaryinvestigator": "Sujatha-Bhaskar, Swathi",
+        "studypathologist": "Scherl, Alexis"
+    },
+    {
+        "pathrequestid": "19-1288(1)",
+        "hnumber": "H2020-195",
+        "requeststatus": "Approved",
+        "animalcount": 26,
+        "pathtitle": "Study the role of Ptk7 in the mouse intestine",
+        "primaryinvestigator": "Yun, Jina",
+        "studypathologist": "Scherl, Alexis"
+    },
+    {
+        "pathrequestid": "19-0506(3)",
+        "hnumber": "H2020-255",
+        "requeststatus": "Under Review",
+        "animalcount": 39,
+        "pathtitle": "Investigating the effects of genetic TPL2 kinase inhibition in a TauP301S mouse model of Alzheimer's Disease (AD)",
+        "primaryinvestigator": "Hanson, Jesse",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "20-0920(1)",
+        "hnumber": "H2020-325",
+        "requeststatus": "Under Review",
+        "animalcount": 15,
+        "pathtitle": "A 4-Day Single-Dose Toxicity and Toxicokinetic Study of Two Small Molecule Tetrazines by Intravenous Administration in Female Sprague Dawley Rat with No Recovery",
+        "primaryinvestigator": "Stagg, Nicola",
+        "studypathologist": "Schutten, Melissa"
+    },
+    {
+        "pathrequestid": "19-1684(1)",
+        "hnumber": "H2020-5",
+        "requeststatus": "Under Review",
+        "animalcount": 24,
+        "pathtitle": "Aging and tissue harvest for phenotypic comparison of TMEM106b knockout mice.",
+        "primaryinvestigator": "Dere, Ed",
+        "studypathologist": "Fuji, Reina"
+    },
+    {
+        "pathrequestid": "19-0559(2)",
+        "hnumber": "H2020-53",
+        "requeststatus": "Under Review",
+        "animalcount": 6,
+        "pathtitle": "Cause of Rab35-mediated splenomegaly in RAB35.flox.cko_Rosa26.Cre.ERT2.ki mice: Ultrastructure of erythroid precursors",
+        "primaryinvestigator": "Xue, Di",
+        "studypathologist": "Caplazi, Patrick"
+    },
+    {
+        "pathrequestid": "TH20-0067(2)",
+        "hnumber": "H2020-84",
+        "requeststatus": "Under Review",
+        "animalcount": 30,
+        "pathtitle": "Tissue harvest protocol for wild type mice strains.",
+        "primaryinvestigator": "Sujatha-Bhaskar, Swathi",
+        "studypathologist": "Scherl, Alexis"
+    },
+    {
+        "pathrequestid": "PL2019-26(30)",
+        "hnumber": "H2019-958",
+        "requeststatus": "Approved",
+        "animalcount": 40,
+        "pathtitle": "Necropsy Training of gRED SR's in Mouse Necropsy Techniques",
+        "primaryinvestigator": "Nunez, Victor",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "16-1886 AE(1)",
+        "hnumber": "H2019-974",
+        "requeststatus": "Under Review",
+        "animalcount": 20,
+        "pathtitle": "Pharmacodynamic (PD) characterization of the syngeneic tumor models EMT6 WT in Balb/c mice, repeat study",
+        "primaryinvestigator": "Cubas, Rafael",
+        "studypathologist": "Ziai, James"
+    },
+    {
+        "pathrequestid": "18-2516(3)",
+        "hnumber": "H2020-115",
+        "requeststatus": "Approved",
+        "animalcount": 7,
+        "pathtitle": "Role of Notch2 signaling in dendritic cell development and tissue distribution in mice.",
+        "primaryinvestigator": "Cruz Tleugabulova, Mayra",
+        "studypathologist": "Webster, Joshua"
+    },
+    {
+        "pathrequestid": "TH18-0107(1)",
+        "hnumber": "H2020-160",
+        "requeststatus": "Under Review",
+        "animalcount": 18,
+        "pathtitle": "Tissue harvest in mice for immune cell isolation",
+        "primaryinvestigator": "Zhou, Yi",
+        "studypathologist": "Peale, Frank"
+    },
+    {
+        "pathrequestid": "TH19-1024(1)",
+        "hnumber": "H2019-590",
+        "requeststatus": "Approved",
+        "animalcount": 4,
+        "pathtitle": "Whole blood collection from rats",
+        "primaryinvestigator": "Sujatha-Bhaskar, Swathi",
+        "studypathologist": "Scherl, Alexis"
+    },
+    {
+        "pathrequestid": "19-0685(1)",
+        "hnumber": "H2019-592",
+        "requeststatus": "Approved",
+        "animalcount": 23,
+        "pathtitle": "A 8- to 12-Week Repeat-Dose Intravenous Toxicity Study of a CD22-mc-vc-PAB-MMAE in Male Sprague-Dawley Rats for in vivo Peripheral Neuropathy Model Development",
+        "primaryinvestigator": "Zhong, Fiona",
+        "studypathologist": "Schutten, Melissa"
+    },
+    {
+        "pathrequestid": "19-1208(1)",
+        "hnumber": "H2019-695",
+        "requeststatus": "Approved",
+        "animalcount": 12,
+        "pathtitle": "A 7-day Two-Dose Intravenous Toxicity and Toxicokinetic Study of BRM inhibitor G03407694 in Male Sprague-Dawley Rats",
+        "primaryinvestigator": "Maher, Jonathan",
+        "studypathologist": "Cain, Gary"
+    },
+    {
+        "pathrequestid": "19-1264(1)",
+        "hnumber": "H2019-1126",
+        "requeststatus": "Under Review",
+        "animalcount": 16,
+        "pathtitle": "Transplantation of ex vivo expanded Hematopoietic Stem Cells to optimize microglia engraftment in vivo in mice.",
+        "primaryinvestigator": "Yartseva, Valeria",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "TH19-1024(5)",
+        "hnumber": "H2019-1173",
+        "requeststatus": "Under Review",
+        "animalcount": 10,
+        "pathtitle": "Whole blood collection from rats",
+        "primaryinvestigator": "Sujatha-Bhaskar, Swathi",
+        "studypathologist": "Scherl, Alexis"
+    },
+    {
+        "pathrequestid": "TH17-2911(2)",
+        "hnumber": "H2019-1191",
+        "requeststatus": "Under Review",
+        "animalcount": 6,
+        "pathtitle": "Tissue harvest from SH3KBP1.ko mice for IHC, Western Blot, primary cell culture, immunofluorescence microscopy, and protein mass spectrometry.",
+        "primaryinvestigator": "Lee, Jiyeon",
+        "studypathologist": "Webster, Joshua"
+    },
+    {
+        "pathrequestid": "19-1079 B(1)",
+        "hnumber": "H2019-1193",
+        "requeststatus": "Under Review",
+        "animalcount": 28,
+        "pathtitle": "The role of NSP4 in House Dust Mite (HDM)-induced asthma in mice",
+        "primaryinvestigator": "Gerhardy, Stefan",
+        "studypathologist": "Caplazi, Patrick"
+    },
+    {
+        "pathrequestid": "19-1678(1)",
+        "hnumber": "H2019-1028",
+        "requeststatus": "Under Review",
+        "animalcount": 10,
+        "pathtitle": "Investigating edema caused by non-covalent activation of TRPA1 with G00923551 in the rat",
+        "primaryinvestigator": "Reese, Becca",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "18-0581 C(1)",
+        "hnumber": "H2019-1039",
+        "requeststatus": "Under Review",
+        "animalcount": 35,
+        "pathtitle": "Investigating intratracheal bleomycin-induced fibrosis in MERTK.ko mice - repeat",
+        "primaryinvestigator": "Doran, Emma",
+        "studypathologist": "Caplazi, Patrick"
+    },
+    {
+        "pathrequestid": "18-0723(21)",
+        "hnumber": "H2020-188",
+        "requeststatus": "Approved",
+        "animalcount": 39,
+        "pathtitle": "Liver and pancreas regeneration and Organoids isolation from Wild-Type Mice with and without Acute CCl4 injury, STZ injury and Notch Blockade",
+        "primaryinvestigator": "Mosteiro Carretero, Lluc",
+        "studypathologist": "Scherl, Alexis"
+    },
+    {
+        "pathrequestid": "PL2020-11(1)",
+        "hnumber": "H2020-19",
+        "requeststatus": "Under Review",
+        "animalcount": 20,
+        "pathtitle": "Necropsy Training of gRED SR's in Mouse Necropsy Techniques",
+        "primaryinvestigator": "Flanagan, Sean",
+        "studypathologist": "Martzall, Angela"
+    },
+    {
+        "pathrequestid": "19-2084(1)",
+        "hnumber": "H2020-2",
+        "requeststatus": "Under Review",
+        "animalcount": 64,
+        "pathtitle": "A 5-day Phenotyping Study of SMARCA2 (Brahma; BRM) by Oral Gavage Administration in the Tamoxifen-inducible Knockout and Wild-type Rats with a 5-Day or 23-Day Recovery Period",
+        "primaryinvestigator": "Stagg, Nicola",
+        "studypathologist": "Cain, Gary"
+    },
+    {
+        "pathrequestid": "20-0259(2)",
+        "hnumber": "H2020-227",
+        "requeststatus": "Approved",
+        "animalcount": 36,
+        "pathtitle": "Cellular transdifferentiation in the guinea pig lung induced by systemic or inhaled delivery of anti-Notch2.1B02.v4hu.Fab-IgG1",
+        "primaryinvestigator": "Lafkas, Daniel",
+        "studypathologist": "Austin, Cary"
+    },
+    {
+        "pathrequestid": "17-1811(1)",
+        "hnumber": "H2020-245",
+        "requeststatus": "Approved",
+        "animalcount": 6,
+        "pathtitle": "Investigation of the electrophysiology of Nav1.7 KO mouse dorsal root ganglion (DRG) neurons",
+        "primaryinvestigator": "Deng, Lunbin",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "20-0503(1)",
+        "hnumber": "H2020-338",
+        "requeststatus": "Approved",
+        "animalcount": 61,
+        "pathtitle": "Assessment of motor function and axonal pathology in SOD1.G93A.HCN/NEFL.ko mice",
+        "primaryinvestigator": "Kahn, Olga",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "19-1279(9)",
+        "hnumber": "H2020-56",
+        "requeststatus": "Approved",
+        "animalcount": 8,
+        "pathtitle": "Evaluation of KRAS Q61R Mice Following Tamoxifen (10d)",
+        "primaryinvestigator": "Moore, Mandy",
+        "studypathologist": "McGinnis, Lisa"
+    },
+    {
+        "pathrequestid": "19-1279(12)",
+        "hnumber": "H2020-59",
+        "requeststatus": "Approved",
+        "animalcount": 9,
+        "pathtitle": "Evaluation of Kras Q61R animals at 3-months of age (no tamoxifen)",
+        "primaryinvestigator": "Moore, Mandy",
+        "studypathologist": "McGinnis, Lisa"
+    },
+    {
+        "pathrequestid": "19-0506(2)",
+        "hnumber": "H2020-61",
+        "requeststatus": "Under Review",
+        "animalcount": 39,
+        "pathtitle": "Investigating the effects of genetic TPL2 kinase inhibition in a TauP301S mouse model of Alzheimer's Disease (AD)",
+        "primaryinvestigator": "Hanson, Jesse",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "20-0075(1)",
+        "hnumber": "H2020-62",
+        "requeststatus": "Under Review",
+        "animalcount": 1,
+        "pathtitle": "Mouse Phenotyping Analysis",
+        "primaryinvestigator": "Rairdan, Xin",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "17-1694(1)",
+        "hnumber": "H2019-744",
+        "requeststatus": "Under Review",
+        "animalcount": 21,
+        "pathtitle": "Tissue harvest of murine tissue to support biomarker development for Amyotrophic Lateral Sclerosis (ALS) therapeutics",
+        "primaryinvestigator": "Burgess, Brady",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "16-2267(8)",
+        "hnumber": "H2019-751",
+        "requeststatus": "Under Review",
+        "animalcount": 20,
+        "pathtitle": "Characterization of COP1 function in tissue resident macrophages in the adult mouse",
+        "primaryinvestigator": "Ndoja, Ada",
+        "studypathologist": "Webster, Joshua"
+    },
+    {
+        "pathrequestid": "TH19-1024(3)",
+        "hnumber": "H2019-818",
+        "requeststatus": "Under Review",
+        "animalcount": 4,
+        "pathtitle": "Whole blood collection from rats",
+        "primaryinvestigator": "Sujatha-Bhaskar, Swathi",
+        "studypathologist": "Scherl, Alexis"
+    },
+    {
+        "pathrequestid": "TH17-1640(4)",
+        "hnumber": "H2019-445",
+        "requeststatus": "Approved",
+        "animalcount": 4,
+        "pathtitle": "Pilot study: To evaluate NSP4.KO and WT mice for expression of CD45.1 or CD45.2 in mast cells against CD45.1 and CD45.2 controls",
+        "primaryinvestigator": "Ah Young, Andrew",
+        "studypathologist": "Caplazi, Patrick"
+    },
+    {
+        "pathrequestid": "PL2019-26(29)",
+        "hnumber": "H2019-924",
+        "requeststatus": "Approved",
+        "animalcount": 1,
+        "pathtitle": "Photos of non-optimal tissue collection",
+        "primaryinvestigator": "Flanagan, Sean",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "19-1509(1)",
+        "hnumber": "H2019-930",
+        "requeststatus": "Under Review",
+        "animalcount": 54,
+        "pathtitle": "A 7 Day Single-Dose Toxicity Study of the Free Drug Silvestrol (G02444526.1-7) by Intravenous Administration in the Female CD-1 Mouse with No Recovery",
+        "primaryinvestigator": "Stagg, Nicola",
+        "studypathologist": "Schutten, Melissa"
+    },
+    {
+        "pathrequestid": "PL2019-26(31)",
+        "hnumber": "H2019-964",
+        "requeststatus": "Under Review",
+        "animalcount": 5,
+        "pathtitle": "Necropsy Training of gRED SR's in Mouse Necropsy Techniques - Chan Lab Staff",
+        "primaryinvestigator": "Chan, Andrew C.",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "17-2364(1)",
+        "hnumber": "H2019-981",
+        "requeststatus": "Under Review",
+        "animalcount": 22,
+        "pathtitle": "The effect of Dendritic cell NIK deficiency in the DSS colitis mouse model.",
+        "primaryinvestigator": "Liang, Jie",
+        "studypathologist": "Scherl, Alexis"
+    },
+    {
+        "pathrequestid": "PL2020-11(7)",
+        "hnumber": "H2020-101",
+        "requeststatus": "Under Review",
+        "animalcount": 4,
+        "pathtitle": "Necropsy Training of gRED SR's in Mouse Necropsy Techniques - Mellman Lab",
+        "primaryinvestigator": "Strasser, Geraldine",
+        "studypathologist": "Martzall, Angela"
+    },
+    {
+        "pathrequestid": "18-0807 B(1)",
+        "hnumber": "H2019-696",
+        "requeststatus": "Under Review",
+        "animalcount": 18,
+        "pathtitle": "Effects of Notch3 knockout on muscle regeneration (Notch3.cko_Pax7.Cre.ERT2)",
+        "primaryinvestigator": "Jovicic, Ana",
+        "studypathologist": "Caplazi, Patrick"
+    },
+    {
+        "pathrequestid": "PL2019-27(10)",
+        "hnumber": "H2019-1102",
+        "requeststatus": "Under Review",
+        "animalcount": 4,
+        "pathtitle": "Collection of Rat Tssues to fulfill SA's Digital Pathology Group Needs",
+        "primaryinvestigator": "Sullivan, Ruth",
+        "studypathologist": "Sullivan, Ruth"
+    },
+    {
+        "pathrequestid": "19-1633(1)",
+        "hnumber": "H2019-1113",
+        "requeststatus": "Under Review",
+        "animalcount": 37,
+        "pathtitle": "Optimizing microglia engraftment after endogenous microglia depletion in the mouse",
+        "primaryinvestigator": "Yartseva, Valeria",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "19-1589(1)",
+        "hnumber": "H2019-1114",
+        "requeststatus": "Under Review",
+        "animalcount": 27,
+        "pathtitle": "Busulfan dose optimization for bone marrow transplantation in mice: SOD1 transgenic mice",
+        "primaryinvestigator": "Yartseva, Valeria",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "19-1994(1)",
+        "hnumber": "H2019-1156",
+        "requeststatus": "Under Review",
+        "animalcount": 32,
+        "pathtitle": "A 7-Day Repeat-Dose Toxicity Study of G03427836, a CDK2 inhibitor, by Oral Gavage in the Wistar-Han Rat with No Recovery",
+        "primaryinvestigator": "Sims, Jessica",
+        "studypathologist": "Lepherd, Michelle"
+    },
+    {
+        "pathrequestid": "18-2195 J(1)",
+        "hnumber": "H2019-1178",
+        "requeststatus": "Under Review",
+        "animalcount": 14,
+        "pathtitle": "Safety evaluation of surrogate murine IL-15 in non-tumor bearing C57Bl/6 mice.",
+        "primaryinvestigator": "Huang, Haochu",
+        "studypathologist": "McGinnis, Lisa"
+    },
+    {
+        "pathrequestid": "PL2019-27(11)",
+        "hnumber": "H2019-1214",
+        "requeststatus": "Approved",
+        "animalcount": 2,
+        "pathtitle": "Necropsy Training of gRED SR's in Rat Necropsy Techniques - Safety Assessment Lab Staff",
+        "primaryinvestigator": "Nunez, Victor",
+        "studypathologist": "Flanagan, Sean"
+    },
+    {
+        "pathrequestid": "TH18-0126(1)",
+        "hnumber": "H2019-1221",
+        "requeststatus": "Under Review",
+        "animalcount": 3,
+        "pathtitle": "Ye Lab Tissue Harvest Protocol (Vendor Mouse Strains)",
+        "primaryinvestigator": "Walsh, Kevin",
+        "studypathologist": "Giltnane, Jennifer"
+    },
+    {
+        "pathrequestid": "TH17-1861(6)",
+        "hnumber": "H2019-1016",
+        "requeststatus": "Under Review",
+        "animalcount": 43,
+        "pathtitle": "Tissue Harvest C57BL6, OTI, and OTII mice.",
+        "primaryinvestigator": "Ghilardi, Nico",
+        "studypathologist": "Austin, Cary"
+    },
+    {
+        "pathrequestid": "17-2239 D(1)",
+        "hnumber": "H2019-1027",
+        "requeststatus": "Approved",
+        "animalcount": 6,
+        "pathtitle": "Assess C-raf kinase dependent and independent roles in adult homeostasis using the D468A kinase dead allele.",
+        "primaryinvestigator": "Long, Jason",
+        "studypathologist": "Cain, Gary"
+    },
+    {
+        "pathrequestid": "TH18-2477(4)",
+        "hnumber": "H2019-1038",
+        "requeststatus": "Under Review",
+        "animalcount": 10,
+        "pathtitle": "Harvest of tissues for characterization of immune responses in vitro.",
+        "primaryinvestigator": "Kayagaki, Nobuhiko",
+        "studypathologist": "Webster, Joshua"
+    },
+    {
+        "pathrequestid": "17-2352 A(1)",
+        "hnumber": "H2020-234",
+        "requeststatus": "Approved",
+        "animalcount": 41,
+        "pathtitle": "The effect of NIK inhibitor G02853682 in the DSS colitis mouse model.",
+        "primaryinvestigator": "Liang, Jie",
+        "studypathologist": "Scherl, Alexis"
+    },
+    {
+        "pathrequestid": "18-0723(22)",
+        "hnumber": "H2020-314",
+        "requeststatus": "Approved",
+        "animalcount": 29,
+        "pathtitle": "Liver and pancreas regeneration and Organoids isolation from Wild-Type Mice with and without Acute CCl4 injury, STZ injury and Notch Blockade",
+        "primaryinvestigator": "Mosteiro Carretero, Lluc",
+        "studypathologist": "Scherl, Alexis"
+    },
+    {
+        "pathrequestid": "17-0073 K(1)",
+        "hnumber": "H2020-52",
+        "requeststatus": "Under Review",
+        "animalcount": 30,
+        "pathtitle": "Determining whether the effects of anti-PDL1, alone or in combination with MEK inhibitor treatment, require T cell egress from draining lymph nodes- repeat",
+        "primaryinvestigator": "Nutsch, Katie",
+        "studypathologist": "Koeppen, Hartmut"
+    },
+    {
+        "pathrequestid": "19-1645(2)",
+        "hnumber": "H2020-92",
+        "requeststatus": "Under Review",
+        "animalcount": 24,
+        "pathtitle": "Role of STK40 in regulating T cell response to chronic LCMV infection in mice",
+        "primaryinvestigator": "Keylin, Svetlana",
+        "studypathologist": "Webster, Joshua"
+    },
+    {
+        "pathrequestid": "PL2020-11(3)",
+        "hnumber": "H2020-97",
+        "requeststatus": "Under Review",
+        "animalcount": 3,
+        "pathtitle": "Necropsy Training of gRED SR's in Mouse Necropsy Techniques - Mellman Lab",
+        "primaryinvestigator": "Strasser, Geraldine",
+        "studypathologist": "Martzall, Angela"
+    },
+    {
+        "pathrequestid": "17-1688 H(2)",
+        "hnumber": "H2018-1389",
+        "requeststatus": "Approved",
+        "animalcount": 39,
+        "pathtitle": "Evaluation of Knockdown Effects of shYAP/TAZ Transgenic Mice Induced by Doxycycline.",
+        "primaryinvestigator": "Lin, Tori",
+        "studypathologist": "Schutten, Melissa"
+    },
+    {
+        "pathrequestid": "TH17-1861(4)",
+        "hnumber": "H2019-757",
+        "requeststatus": "Approved",
+        "animalcount": 30,
+        "pathtitle": "Tissue Harvest C57BL6, OTI, and OTII mice.",
+        "primaryinvestigator": "Ghilardi, Nico",
+        "studypathologist": "Austin, Cary"
+    },
+    {
+        "pathrequestid": "17-1688 H(7)",
+        "hnumber": "H2019-816",
+        "requeststatus": "Under Review",
+        "animalcount": 50,
+        "pathtitle": "Evaluation of Knockdown Effects of shYAP/TAZ Transgenic Mice Induced by Doxycycline.",
+        "primaryinvestigator": "Merchant, Mark",
+        "studypathologist": "Schutten, Melissa"
+    },
+    {
+        "pathrequestid": "19-0839(1)",
+        "hnumber": "H2019-876",
+        "requeststatus": "Under Review",
+        "animalcount": 14,
+        "pathtitle": "Transplantation of wild-type and gene-edited microglia into Glucocerebrosidase (GBA) mutant mice",
+        "primaryinvestigator": "Yartseva, Valeria",
+        "studypathologist": "Foreman, Oded"
+    },
+    {
+        "pathrequestid": "18-2516(5)",
+        "hnumber": "H2020-117",
+        "requeststatus": "Under Review",
+        "animalcount": 10,
+        "pathtitle": "Role of Notch2 signaling in dendritic cell development and tissue distribution in mice.",
+        "primaryinvestigator": "Cruz Tleugabulova, Mayra",
+        "studypathologist": "Webster, Joshua"
+    },
+    {
+        "pathrequestid": "PL2020-11(8)",
+        "hnumber": "H2020-122",
+        "requeststatus": "Under Review",
+        "animalcount": 4,
+        "pathtitle": "Necropsy Training of Dixon staff",
+        "primaryinvestigator": "Flanagan, Sean",
+        "studypathologist": "Flanagan, Sean"
+    },
+    {
+        "pathrequestid": "20-0199(1)",
+        "hnumber": "H2020-140",
+        "requeststatus": "Under Review",
+        "animalcount": 49,
+        "pathtitle": "A 7-Day Oral Single-Dose and Repeat-Dose Investigative Toxicity Study of HPK1 Inhibitor G03406893 in Female Sprague-Dawley Rats",
+        "primaryinvestigator": "Kiyota, Satoko",
+        "studypathologist": "Lepherd, Michelle"
+    },
+    {
+        "pathrequestid": "PL2020-15(1)",
+        "hnumber": "H2020-146",
+        "requeststatus": "Under Review",
+        "animalcount": 2,
+        "pathtitle": "2020: Tracking Lab Activities for Tissues Collected from the Mayo IBD Collaboration.",
+        "primaryinvestigator": "Flanagan, Sean",
+        "studypathologist": "Scherl, Alexis"
+    },
+    {
+        "pathrequestid": "19-0669 A(1)",
+        "hnumber": "H2020-147",
+        "requeststatus": "Approved",
+        "animalcount": 6,
+        "pathtitle": "The effect of antibiotic treatment after temporal AID deletion.",
+        "primaryinvestigator": "Bao, Katherine",
+        "studypathologist": "Scherl, Alexis"
+    }
+]

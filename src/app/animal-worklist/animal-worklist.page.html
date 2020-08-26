@@ -30,15 +30,6 @@
         <h1> <b>Available Animals List</b> </h1>
   </div>
 
-  <ion-refresher slot="fixed" (ionRefresh)="doRefresh($event)">
-    <ion-refresher-content
-      pullingIcon="arrow-dropdown"
-      pullingText="Pull to refresh"
-      refreshingSpinner="circles"
-      refreshingText="Refreshing...">
-    </ion-refresher-content>
-   </ion-refresher>
-
   <ngx-datatable  class="animalworklist_table"
     [ngClass]="tablestyle" 
     [rows]="items"
@@ -46,7 +37,7 @@
     [headerHeight]="60" 
     [rowHeight]="'auto'">
  
-    <ngx-datatable-column name="animalid"></ngx-datatable-column>
+    <ngx-datatable-column prop="animal_id" name="animal_id"></ngx-datatable-column>
     <ngx-datatable-column name="technician">
     <ng-template let-row="row" let-value="value" ngx-datatable-cell-template>
       <ion-select [(ngModel)]="row.technician" placeholder="technician">
@@ -72,7 +63,8 @@
   </ngx-datatable>
   
 <div class="AnimalWorklist-Footer">
-  <ion-button class="complete_worklist" size="small" [routerLink]="['/path-request']">Complete Worklist</ion-button>
+  <ion-button class="complete_worklist" size="small" (click)="downloadPdf()">Complete Worklist</ion-button>
+  <ion-button class="complete_worklist" size="small" (click)="createPdf()">Submit Task-Fullfilments</ion-button>
 </div>
 
 </ion-content>

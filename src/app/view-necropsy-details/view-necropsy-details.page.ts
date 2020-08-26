@@ -6,6 +6,8 @@ import { NavigationExtras } from '@angular/router';
 import { AlertController } from '@ionic/angular';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
+import { map } from 'rxjs/operators';
+
 
 
 @Component({
@@ -16,7 +18,7 @@ import { Observable } from 'rxjs';
 export class ViewNecropsyDetailsPage implements OnInit {
 
   pathrequestid: string;
-  procedureid: string;
+  procedureid: number;
   hnumber: string;
   requeststatus: string;
   pathtitle: string;
@@ -27,6 +29,8 @@ export class ViewNecropsyDetailsPage implements OnInit {
   fixative: string;
   handling: string;
   processing: string;
+  primaryinvestigator: string;
+  studypathologist: string;
 
   items: any[];
   private pathrequests: any[] = data;
@@ -42,6 +46,8 @@ export class ViewNecropsyDetailsPage implements OnInit {
       this.hnumber = params["hnumber"];
       this.requeststatus = params["requeststatus"];
       this.pathtitle = params["pathtitle"];
+      this.primaryinvestigator = params["primaryinvestigator"];
+      this.studypathologist = params["studypathologist"];
       this.requestdate = params["requestdate"];
       this.animalqty = params["animalqty"];
       this.marker = params["marker"];
@@ -49,6 +55,8 @@ export class ViewNecropsyDetailsPage implements OnInit {
       this.fixative = params["fixative"];
       this.handling = params["handling"];
       this.processing = params["processing"];
+      console.log(this.pathrequestid)
+      console.log(this.procedureid);
       this.loadData();
       this.checkForUndefined();
     });
@@ -63,16 +71,23 @@ export class ViewNecropsyDetailsPage implements OnInit {
   }
 
   loadData(){
+    
+    let data:Observable<any>;
+    data =this.http.get('http://10.136.137.223:18080/ords/pathlimsreports/v_nec_int_tissue/?q=%7B%22path_request_id%22:%22'+this.pathrequestid+'%22,%22procedure_id%22:'+this.procedureid+'%7D')
+    .pipe(map((response: any) => response.items )) // map to use the items key!
+    data.subscribe( data => {
+       this.items = data;
+       console.log(data);
+     });
+
+    /* Old Method
     let data:Observable<any>;
     data = this.http.get('assets/v_nec_int_tissue.json');
     data.subscribe(data => {
       this.items = data.filter(item => item.pathrequestid === this.pathrequestid && item.procedureid === this.procedureid);
     });
-  }
+    */
 
-
-  async open(row) {
-    
   }
 
   checkForUndefined(){
@@ -102,6 +117,8 @@ export class ViewNecropsyDetailsPage implements OnInit {
          hnumber: this.hnumber,
          requeststatus: this.requeststatus,
          pathtitle: this.pathtitle,
+         primaryinvestigator: this.primaryinvestigator,
+         studypathologist: this.studypathologist,
          marker: this.marker,
          method: this.method,
          fixative: this.fixative,

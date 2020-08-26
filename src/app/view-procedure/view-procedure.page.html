@@ -45,13 +45,13 @@
     [headerHeight]="60" 
     [rowHeight]="'auto'">
 
-     <ngx-datatable-column name="procedureid"></ngx-datatable-column>
-    <ngx-datatable-column name="requestdate"></ngx-datatable-column>
-    <ngx-datatable-column name="animalqty"></ngx-datatable-column>
-    <ngx-datatable-column name="location"></ngx-datatable-column>
-    <ngx-datatable-column name="procedurecomment"></ngx-datatable-column>
-    <ngx-datatable-column name="studymonitor"></ngx-datatable-column>
-
+     <ngx-datatable-column prop="procedure_id" name="procedure_id"></ngx-datatable-column>
+    <ngx-datatable-column prop="request_date" name="request_date"></ngx-datatable-column>
+    <ngx-datatable-column prop="animal_qty" name="animal_qty"></ngx-datatable-column>
+    <ngx-datatable-column prop="location"  name="location"></ngx-datatable-column>
+    <ngx-datatable-column prop="procedure_comment"  name="procedure_comment"></ngx-datatable-column>
+    <ngx-datatable-column prop="study_monitor" name="study_monitor"></ngx-datatable-column>
+_
     <ngx-datatable-column name="Actions" sortable="false" prop="name">
       <ng-template let-row="row" let-value="value" ngx-datatable-cell-template>
         <ion-button size="small" fill="outline" (click)="goToNecropsyDetails(row)">View Necropsy</ion-button>
